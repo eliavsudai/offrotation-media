@@ -13,3 +13,10 @@
    before featuring/pressing ("can we press these into a cover and feature it here?").
    Spam/bots/self-promo: `comments.py skip ID` (never delete). Never promise a launch date.
 3. Tell the user briefly only if something needs them (a failed post, a yes to featuring, a question you can't answer).
+
+## Guess Reel answers (post as a reply/comment on Thu Oct 29, then pin it)
+- Sin Suelo: Soda Stereo, Caifanes, Los Prisioneros
+- Between Stations: Cocteau Twins, Beach House, Slowdive
+- Quiet, Full of Things: Beethoven, Chopin, Debussy
+Comment text: "answers: sin suelo = soda stereo, caifanes, los prisioneros · between stations = cocteau twins, beach house, slowdive · quiet, full of things = beethoven, chopin, debussy. same three, same album: try them in soulprint at launch."
+Before then, never reveal or confirm answers in replies.
