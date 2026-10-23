@@ -19,7 +19,7 @@
       "id": "2026-10-22-intro-v2",
       "when": "2026-10-22T20:30:00-06:00",
       "type": "carousel",
-      "approved": false,
+      "approved": true,
       "media": [
         "posts/2026-10-22-intro-v2/01.jpg",
         "posts/2026-10-22-intro-v2/02.jpg",
