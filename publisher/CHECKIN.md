@@ -16,7 +16,7 @@
 
 ## Guess Reel answers (post as a reply/comment on Thu Oct 29, then pin it)
 - Sin Suelo: Soda Stereo, Caifanes, Los Prisioneros
-- Between Stations: Cocteau Twins, Beach House, Slowdive
+- The Sun Has Teeth Too: Ramones, The Clash, Buzzcocks
 - Quiet, Full of Things: Beethoven, Chopin, Debussy
-Comment text: "answers: sin suelo = soda stereo, caifanes, los prisioneros · between stations = cocteau twins, beach house, slowdive · quiet, full of things = beethoven, chopin, debussy. same three, same album: try them in soulprint at launch."
+Comment text: "answers: sin suelo = soda stereo, caifanes, los prisioneros · the sun has teeth too = ramones, the clash, buzzcocks · quiet, full of things = beethoven, chopin, debussy. same three, same album: try them in soulprint at launch."
 Before then, never reveal or confirm answers in replies.
