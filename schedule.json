@@ -59,7 +59,7 @@
       "id": "2026-10-23-albums-dont-exist",
       "when": "2026-10-23T18:00:00-06:00",
       "type": "carousel",
-      "approved": true,
+      "approved": false,
       "media": [
         "posts/2026-10-23-albums-dont-exist/01.jpg",
         "posts/2026-10-23-albums-dont-exist/02.jpg",
@@ -94,7 +94,7 @@
       "id": "2026-10-24-reel-albums",
       "when": "2026-10-24T11:00:00-06:00",
       "type": "reel",
-      "approved": true,
+      "approved": false,
       "media": [
         "posts/2026-10-24-reel-albums/reel.mp4"
       ],
