@@ -1,0 +1,21 @@
+{
+  "timezone_note": "Times are Guatemala time (UTC-06:00). A post only publishes when approved is true.",
+  "posts": [
+    {
+      "id": "2026-10-23-intro",
+      "when": "2026-10-23T18:30:00-06:00",
+      "type": "carousel",
+      "approved": false,
+      "media": ["posts/2026-10-23-intro/01.jpg", "posts/2026-10-23-intro/02.jpg", "posts/2026-10-23-intro/03.jpg", "posts/2026-10-23-intro/04.jpg", "posts/2026-10-23-intro/05.jpg"],
+      "caption": "for people who know the deep cut.\n\nwe're off rotation, a small studio making things for people who live for music. here you'll find songs worth knowing, your taste pressed into album covers, and the apps we build along the way.\n\nfirst release: soulprint. pick three songs, get an album nobody else has.\n\ndrop your three songs below. we're pressing the best ones.\n\n#musictaste #deepcuts #albumart #musiclovers #vinylcommunity"
+    },
+    {
+      "id": "2026-10-24-deepcuts-2am",
+      "when": "2026-10-24T11:00:00-06:00",
+      "type": "carousel",
+      "approved": false,
+      "media": ["posts/2026-10-24-deepcuts-2am/01.jpg", "posts/2026-10-24-deepcuts-2am/02.jpg", "posts/2026-10-24-deepcuts-2am/03.jpg", "posts/2026-10-24-deepcuts-2am/04.jpg", "posts/2026-10-24-deepcuts-2am/05.jpg", "posts/2026-10-24-deepcuts-2am/06.jpg", "posts/2026-10-24-deepcuts-2am/07.jpg"],
+      "caption": "five songs that only make sense at 2am.\n\n01 Nights · Frank Ocean\n02 Teardrop · Massive Attack\n03 Pink Moon · Nick Drake\n04 Arrullo de Estrellas · Zoé\n05 Motion Sickness · Phoebe Bridgers\n\nsave it for tonight. what's your 2am song?\n\n#deepcuts #latenightmusic #musicrecommendations #playlist #musictaste"
+    }
+  ]
+}
