@@ -31,6 +31,15 @@
       "caption": "for people who know the deep cut.\n\nwe're off rotation, a small studio making things for people who live for music. deep cuts worth knowing, your taste pressed into album covers, and the apps we build along the way.\n\nfirst release: soulprint. pick three songs, get a one-of-one album cover with its own back cover and tune. no release date yet. it's coming soon.\n\ndrop your three songs below. we'll press a few before launch.\ndéjanos tus tres canciones.\n\n#musictaste #deepcuts #albumart #musiclovers #vinylcommunity"
     },
     {
+      "id": "2026-10-23-story-fri",
+      "when": "2026-10-23T12:00:00-06:00",
+      "type": "story",
+      "approved": true,
+      "media": [
+        "posts/2026-10-23-story-fri/story.jpg"
+      ]
+    },
+    {
       "id": "2026-10-23-reel-reveal",
       "when": "2026-10-23T18:00:00-06:00",
       "type": "reel",
@@ -57,6 +66,91 @@
         "posts/2026-10-24-deepcuts-2am/07.jpg"
       ],
       "caption": "five songs that only make sense at 2am.\n\n01 Nights · Frank Ocean\n02 Teardrop · Massive Attack\n03 Pink Moon · Nick Drake\n04 Arrullo de Estrellas · Zoé\n05 Motion Sickness · Phoebe Bridgers\n\nsave it for tonight. what's your 2am song?\n\n#deepcuts #latenightmusic #musicrecommendations #playlist #musictaste"
+    },
+    {
+      "id": "2026-10-24-story-sat",
+      "when": "2026-10-24T18:00:00-06:00",
+      "type": "story",
+      "approved": true,
+      "media": [
+        "posts/2026-10-24-story-sat/story.jpg"
+      ]
+    },
+    {
+      "id": "2026-10-25-story-sun",
+      "when": "2026-10-25T12:00:00-06:00",
+      "type": "story",
+      "approved": true,
+      "media": [
+        "posts/2026-10-25-story-sun/story.jpg"
+      ]
+    },
+    {
+      "id": "2026-10-26-story-mon",
+      "when": "2026-10-26T12:00:00-06:00",
+      "type": "story",
+      "approved": true,
+      "media": [
+        "posts/2026-10-26-story-mon/story.jpg"
+      ]
+    },
+    {
+      "id": "2026-10-26-sampled",
+      "when": "2026-10-26T18:30:00-06:00",
+      "type": "carousel",
+      "approved": true,
+      "media": [
+        "posts/2026-10-26-sampled/01.jpg",
+        "posts/2026-10-26-sampled/02.jpg",
+        "posts/2026-10-26-sampled/03.jpg",
+        "posts/2026-10-26-sampled/04.jpg",
+        "posts/2026-10-26-sampled/05.jpg",
+        "posts/2026-10-26-sampled/06.jpg",
+        "posts/2026-10-26-sampled/07.jpg"
+      ],
+      "caption": "five hits, and the older songs hiding inside them.\n\n01 redbone ← i'd rather be with you, bootsy's rubber band (1976)\n02 crazy in love ← are you my woman? (tell me so), the chi-lites (1970)\n03 gold digger ← i got a woman, ray charles (1954)\n04 hips don't lie ← amores como el nuestro, jerry rivera (1992)\n05 safaera ← get ur freak on, missy elliott (2001)\n\nwhat song sent you back to an older one? best answers go in vol. 03.\n\n#deepcuts #samples #musichistory #musictaste #cratedigging"
+    },
+    {
+      "id": "2026-10-27-story-tue",
+      "when": "2026-10-27T12:00:00-06:00",
+      "type": "story",
+      "approved": true,
+      "media": [
+        "posts/2026-10-27-story-tue/story.jpg"
+      ]
+    },
+    {
+      "id": "2026-10-27-reel-crate",
+      "when": "2026-10-27T18:30:00-06:00",
+      "type": "reel",
+      "approved": true,
+      "media": [
+        "posts/2026-10-27-reel-crate/reel.mp4"
+      ],
+      "cover": "posts/2026-10-27-reel-crate/cover.jpg",
+      "music": "70s Another Funky Disco 119bpm by pietiX (Pixabay, no Content ID: boost-safe)",
+      "caption": "every cover you press, kept in your crate.\n\nfour records so far: every window passing, glass circuit, blown your direction, where we overlap.\n\nsoulprint is coming soon. what's the first record going in yours?\n\n#albumart #musictaste #soulprint #vinylcollection #musiclovers"
+    },
+    {
+      "id": "2026-10-28-story-wed",
+      "when": "2026-10-28T12:00:00-06:00",
+      "type": "story",
+      "approved": true,
+      "media": [
+        "posts/2026-10-28-story-wed/story.jpg"
+      ]
+    },
+    {
+      "id": "2026-10-28-reel-guess",
+      "when": "2026-10-28T18:30:00-06:00",
+      "type": "reel",
+      "approved": true,
+      "media": [
+        "posts/2026-10-28-reel-guess/reel.mp4"
+      ],
+      "cover": "posts/2026-10-28-reel-guess/cover.jpg",
+      "music": "Smooth Jazz by Aurec (Pixabay, Content ID registered: do not boost)",
+      "caption": "three songs made each of these covers. name them.\n\npick one and drop your three guesses in the comments. best guess gets their own cover pressed.\n\n#albumart #musictaste #soulprint #guessthesong #musiclovers"
     }
   ]
 }
