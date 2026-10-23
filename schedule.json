@@ -43,7 +43,7 @@
       "id": "2026-10-26-sampled",
       "when": "2026-10-23T18:00:00-06:00",
       "type": "carousel",
-      "approved": true,
+      "approved": false,
       "media": [
         "posts/2026-10-26-sampled/01.jpg",
         "posts/2026-10-26-sampled/02.jpg",
@@ -59,7 +59,7 @@
       "id": "2026-10-24-deepcuts-2am",
       "when": "2026-10-24T11:00:00-06:00",
       "type": "carousel",
-      "approved": true,
+      "approved": false,
       "media": [
         "posts/2026-10-24-deepcuts-2am/01.jpg",
         "posts/2026-10-24-deepcuts-2am/02.jpg",
@@ -75,7 +75,7 @@
       "id": "2026-10-24-story-sat",
       "when": "2026-10-24T18:00:00-06:00",
       "type": "story",
-      "approved": true,
+      "approved": false,
       "media": [
         "posts/2026-10-24-story-sat/story.jpg"
       ]
@@ -84,7 +84,7 @@
       "id": "2026-10-25-story-sun",
       "when": "2026-10-25T12:00:00-06:00",
       "type": "story",
-      "approved": true,
+      "approved": false,
       "media": [
         "posts/2026-10-25-story-sun/story.jpg"
       ]
@@ -93,7 +93,7 @@
       "id": "2026-10-26-story-mon",
       "when": "2026-10-26T12:00:00-06:00",
       "type": "story",
-      "approved": true,
+      "approved": false,
       "media": [
         "posts/2026-10-26-story-mon/story.jpg"
       ]
@@ -102,7 +102,7 @@
       "id": "2026-10-23-reel-reveal",
       "when": "2026-10-26T18:30:00-06:00",
       "type": "reel",
-      "approved": true,
+      "approved": false,
       "media": [
         "posts/2026-10-23-reel-reveal/reel.mp4"
       ],
@@ -114,7 +114,7 @@
       "id": "2026-10-27-story-tue",
       "when": "2026-10-27T12:00:00-06:00",
       "type": "story",
-      "approved": true,
+      "approved": false,
       "media": [
         "posts/2026-10-27-story-tue/story.jpg"
       ]
@@ -123,7 +123,7 @@
       "id": "2026-10-27-reel-crate",
       "when": "2026-10-27T18:30:00-06:00",
       "type": "reel",
-      "approved": true,
+      "approved": false,
       "media": [
         "posts/2026-10-27-reel-crate/reel.mp4"
       ],
@@ -135,7 +135,7 @@
       "id": "2026-10-28-story-wed",
       "when": "2026-10-28T12:00:00-06:00",
       "type": "story",
-      "approved": true,
+      "approved": false,
       "media": [
         "posts/2026-10-28-story-wed/story.jpg"
       ]
@@ -144,7 +144,7 @@
       "id": "2026-10-28-reel-guess",
       "when": "2026-10-28T18:30:00-06:00",
       "type": "reel",
-      "approved": true,
+      "approved": false,
       "media": [
         "posts/2026-10-28-reel-guess/reel.mp4"
       ],
