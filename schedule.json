@@ -59,9 +59,8 @@
       "when": "2026-10-24T09:00:00-06:00",
       "type": "story",
       "approved": true,
-      "media": [
-        "posts/2026-10-24-s-0900/story.jpg"
-      ]
+      "media": [],
+      "cleaned": true
     },
     {
       "id": "2026-10-24-r2-party",
