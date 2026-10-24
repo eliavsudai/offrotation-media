@@ -67,12 +67,10 @@
       "when": "2026-10-24T11:00:00-06:00",
       "type": "reel",
       "approved": true,
-      "media": [
-        "posts/2026-10-24-r2-party/reel.mp4"
-      ],
-      "cover": "posts/2026-10-24-r2-party/cover.jpg",
+      "media": [],
       "caption": "the song after the party.\n\nfor the walk home:\n01 self control · frank ocean\n02 angels · the xx\n03 telepatía · kali uchis\n\nwhich one plays when the night's over?\n\n#latenight #musictaste #frankocean #musiclovers #offrotation",
-      "music": "Deep House Sunset (Pixabay, clean, boost candidate)"
+      "music": "Deep House Sunset (Pixabay, clean, boost candidate)",
+      "cleaned": true
     },
     {
       "id": "2026-10-24-s-1300",
