@@ -1,4 +1,4 @@
-# Off Rotation morning check-up (8:30 am Guatemala, daily)
+# Off Rotation morning check-up (7:30 am Guatemala, daily)
 
 1. Pull insights for every post published in the last 72 h (GET /{media-id}/insights):
    reels: reach, views/plays, saved, shares, likes, comments, total_interactions, ig_reels_avg_watch_time;
