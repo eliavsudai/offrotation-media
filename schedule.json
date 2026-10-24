@@ -85,14 +85,9 @@
       "when": "2026-10-24T15:00:00-06:00",
       "type": "carousel",
       "approved": true,
-      "media": [
-        "posts/2026-10-24-c1-start-here/01.jpg",
-        "posts/2026-10-24-c1-start-here/02.jpg",
-        "posts/2026-10-24-c1-start-here/03.jpg",
-        "posts/2026-10-24-c1-start-here/04.jpg",
-        "posts/2026-10-24-c1-start-here/05.jpg"
-      ],
-      "caption": "start here.\n\nthree records for the long way home:\n01 pink + white · frank ocean\n02 space song · beach house\n03 hasta la raíz · natalia lafourcade\n\nand the album they make together, pressed in soulprint.\n\nsave this for your next drive.\n\n#musictaste #playlist #albumart #musiclovers #offrotation"
+      "media": [],
+      "caption": "start here.\n\nthree records for the long way home:\n01 pink + white · frank ocean\n02 space song · beach house\n03 hasta la raíz · natalia lafourcade\n\nand the album they make together, pressed in soulprint.\n\nsave this for your next drive.\n\n#musictaste #playlist #albumart #musiclovers #offrotation",
+      "cleaned": true
     },
     {
       "id": "2026-10-24-s-1730",
