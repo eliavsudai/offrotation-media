@@ -41,12 +41,10 @@
       "when": "2026-10-23T19:30:00-06:00",
       "type": "reel",
       "approved": true,
-      "media": [
-        "posts/2026-10-23-r1-longway/reel.mp4"
-      ],
-      "cover": "posts/2026-10-23-r1-longway/cover.jpg",
+      "media": [],
       "caption": "take the long way home.\n\nthree songs, no skips:\n01 take the long way home · supertramp\n02 landslide · fleetwood mac\n03 eres · café tacvba\n\nwhat's the song you save for the drive back?\n\n#musictaste #roadtrip #playlist #musiclovers #offrotation",
-      "music": "Deep House Sunset (Pixabay, clean)"
+      "music": "Deep House Sunset (Pixabay, clean)",
+      "cleaned": true
     },
     {
       "id": "2026-10-23-s-2130",
