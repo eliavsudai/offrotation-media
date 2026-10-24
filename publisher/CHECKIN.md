@@ -20,3 +20,9 @@
 - Quiet, Full of Things: Beethoven, Chopin, Debussy
 Comment text: "answers: sin suelo = soda stereo, caifanes, los prisioneros · the sun has teeth too = ramones, the clash, buzzcocks · quiet, full of things = beethoven, chopin, debussy. same three, same album: try them in soulprint at launch."
 Before then, never reveal or confirm answers in replies.
+
+## Cleanup (every check-in, standing instruction from the user)
+After publishing: for every post published more than 1 hour ago, delete its media folder posts/<id>/
+(set media=[] and cleaned=true in schedule.json), commit and push. Also delete the matching rendered
+files and frame folders in the workspace (/home/claude/ads/**/frames_*, used reel mp4s/jpgs).
+Keep source art, scripts, brand assets (logo, fonts) and anything scheduled but not yet posted.
