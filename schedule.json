@@ -146,14 +146,9 @@
       "when": "2026-10-25T15:00:00-06:00",
       "type": "carousel",
       "approved": true,
-      "media": [
-        "posts/2026-10-25-c2-off-hours/01.jpg",
-        "posts/2026-10-25-c2-off-hours/02.jpg",
-        "posts/2026-10-25-c2-off-hours/03.jpg",
-        "posts/2026-10-25-c2-off-hours/04.jpg",
-        "posts/2026-10-25-c2-off-hours/05.jpg"
-      ],
-      "caption": "off hours / 001. sunday, slowly.\n\nthree records for doing nothing, and the album they press into together.\n\nwhat's on your sunday?\n\n#sundaymood #musictaste #albumart #musiclovers #offrotation"
+      "media": [],
+      "caption": "off hours / 001. sunday, slowly.\n\nthree records for doing nothing, and the album they press into together.\n\nwhat's on your sunday?\n\n#sundaymood #musictaste #albumart #musiclovers #offrotation",
+      "cleaned": true
     },
     {
       "id": "2026-10-25-s-1730",
