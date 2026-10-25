@@ -128,12 +128,10 @@
       "when": "2026-10-25T11:00:00-06:00",
       "type": "reel",
       "approved": true,
-      "media": [
-        "posts/2026-10-25-r4-sunday/reel.mp4"
-      ],
-      "cover": "posts/2026-10-25-r4-sunday/cover.jpg",
+      "media": [],
       "caption": "sunday, slowly.\n\noff hours / 001:\n01 don't know why · norah jones\n02 peace piece · bill evans\n03 todo se transforma · jorge drexler\n\nnothing to do. just listen.\n\n#sundaymood #slowsunday #jazz #musictaste #offrotation",
-      "music": "Chill Lofi (Pixabay, Content ID: do not boost)"
+      "music": "Chill Lofi (Pixabay, Content ID: do not boost)",
+      "cleaned": true
     },
     {
       "id": "2026-10-25-s-1300",
