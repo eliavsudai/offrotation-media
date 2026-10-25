@@ -138,9 +138,8 @@
       "when": "2026-10-25T13:00:00-06:00",
       "type": "story",
       "approved": true,
-      "media": [
-        "posts/2026-10-25-s-1300/story.jpg"
-      ]
+      "media": [],
+      "cleaned": true
     },
     {
       "id": "2026-10-25-c2-off-hours",
