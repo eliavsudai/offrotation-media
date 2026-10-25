@@ -102,12 +102,10 @@
       "when": "2026-10-24T19:30:00-06:00",
       "type": "reel",
       "approved": true,
-      "media": [
-        "posts/2026-10-24-r3-nostalgia/reel.mp4"
-      ],
-      "cover": "posts/2026-10-24-r3-nostalgia/cover.jpg",
+      "media": [],
       "caption": "what nostalgia looks like.\n\n01 dreams · fleetwood mac\n02 de música ligera · soda stereo\n03 fade into you · mazzy star\n\nwhat song sends you straight back?\n\n#nostalgia #musictaste #fleetwoodmac #sodastereo #offrotation",
-      "music": "Chill Lofi (Pixabay, Content ID: do not boost)"
+      "music": "Chill Lofi (Pixabay, Content ID: do not boost)",
+      "cleaned": true
     },
     {
       "id": "2026-10-24-s-2130",
