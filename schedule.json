@@ -155,9 +155,8 @@
       "when": "2026-10-25T17:30:00-06:00",
       "type": "story",
       "approved": true,
-      "media": [
-        "posts/2026-10-25-s-1730/story.jpg"
-      ]
+      "media": [],
+      "cleaned": true
     },
     {
       "id": "2026-10-25-r5-memories",
