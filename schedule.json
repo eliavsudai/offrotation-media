@@ -1,181 +1,205 @@
 {
-  "timezone_note": "Times are Guatemala time (UTC-06:00). A post only publishes when approved is true.",
-  "posts": [
-    {
-      "id": "2026-10-23-intro",
-      "when": "2026-10-22T19:45:00-06:00",
-      "type": "carousel",
-      "approved": true,
-      "media": [],
-      "caption": "for people who know the deep cut.\n\nwe're off rotation, a small studio making things for people who live for music. here you'll find songs worth knowing, your taste pressed into album covers, and the apps we build along the way.\n\nfirst release: soulprint. pick three songs, get an album nobody else has.\n\ndrop your three songs below. we're pressing the best ones.\n\n#musictaste #deepcuts #albumart #musiclovers #vinylcommunity",
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-22-intro-v2",
-      "when": "2026-10-22T20:30:00-06:00",
-      "type": "carousel",
-      "approved": true,
-      "media": [],
-      "caption": "for people who know the deep cut.\n\nwe're off rotation, a small studio making things for people who live for music. deep cuts worth knowing, your taste pressed into album covers, and the apps we build along the way.\n\nfirst release: soulprint. pick three songs, get a one-of-one album cover with its own back cover and tune. no release date yet. it's coming soon.\n\ndrop your three songs below. we'll press a few before launch.\ndéjanos tus tres canciones.\n\n#musictaste #deepcuts #albumart #musiclovers #vinylcommunity",
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-23-story-fri",
-      "when": "2026-10-23T12:00:00-06:00",
-      "type": "story",
-      "approved": true,
-      "media": [],
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-23-intro-v3",
-      "when": "2026-10-23T18:30:00-06:00",
-      "type": "carousel",
-      "approved": true,
-      "media": [],
-      "caption": "off rotation. an account worth staying for.\n\nmusic for the moments you can't name. three songs for every feeling, a few every week. and soon, soulprint: three songs in, one album out.\n\ndrop your three songs below. we'll press a few of them right here.\n\n#musictaste #musiclovers #albumart #playlist #offrotation",
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-23-r1-longway",
-      "when": "2026-10-23T19:30:00-06:00",
-      "type": "reel",
-      "approved": true,
-      "media": [],
-      "caption": "take the long way home.\n\nthree songs, no skips:\n01 take the long way home · supertramp\n02 landslide · fleetwood mac\n03 eres · café tacvba\n\nwhat's the song you save for the drive back?\n\n#musictaste #roadtrip #playlist #musiclovers #offrotation",
-      "music": "Deep House Sunset (Pixabay, clean)",
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-23-s-2130",
-      "when": "2026-10-23T21:30:00-06:00",
-      "type": "story",
-      "approved": true,
-      "media": [],
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-24-s-0900",
-      "when": "2026-10-24T09:00:00-06:00",
-      "type": "story",
-      "approved": true,
-      "media": [],
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-24-r2-party",
-      "when": "2026-10-24T11:00:00-06:00",
-      "type": "reel",
-      "approved": true,
-      "media": [],
-      "caption": "the song after the party.\n\nfor the walk home:\n01 self control · frank ocean\n02 angels · the xx\n03 telepatía · kali uchis\n\nwhich one plays when the night's over?\n\n#latenight #musictaste #frankocean #musiclovers #offrotation",
-      "music": "Deep House Sunset (Pixabay, clean, boost candidate)",
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-24-s-1300",
-      "when": "2026-10-24T13:00:00-06:00",
-      "type": "story",
-      "approved": true,
-      "media": [],
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-24-c1-start-here",
-      "when": "2026-10-24T15:00:00-06:00",
-      "type": "carousel",
-      "approved": true,
-      "media": [],
-      "caption": "start here.\n\nthree records for the long way home:\n01 pink + white · frank ocean\n02 space song · beach house\n03 hasta la raíz · natalia lafourcade\n\nand the album they make together, pressed in soulprint.\n\nsave this for your next drive.\n\n#musictaste #playlist #albumart #musiclovers #offrotation",
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-24-s-1730",
-      "when": "2026-10-24T17:30:00-06:00",
-      "type": "story",
-      "approved": true,
-      "media": [],
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-24-r3-nostalgia",
-      "when": "2026-10-24T19:30:00-06:00",
-      "type": "reel",
-      "approved": true,
-      "media": [],
-      "caption": "what nostalgia looks like.\n\n01 dreams · fleetwood mac\n02 de música ligera · soda stereo\n03 fade into you · mazzy star\n\nwhat song sends you straight back?\n\n#nostalgia #musictaste #fleetwoodmac #sodastereo #offrotation",
-      "music": "Chill Lofi (Pixabay, Content ID: do not boost)",
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-24-s-2130",
-      "when": "2026-10-24T21:30:00-06:00",
-      "type": "story",
-      "approved": true,
-      "media": [],
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-25-s-0900",
-      "when": "2026-10-25T09:00:00-06:00",
-      "type": "story",
-      "approved": true,
-      "media": [],
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-25-r4-sunday",
-      "when": "2026-10-25T11:00:00-06:00",
-      "type": "reel",
-      "approved": true,
-      "media": [],
-      "caption": "sunday, slowly.\n\noff hours / 001:\n01 don't know why · norah jones\n02 peace piece · bill evans\n03 todo se transforma · jorge drexler\n\nnothing to do. just listen.\n\n#sundaymood #slowsunday #jazz #musictaste #offrotation",
-      "music": "Chill Lofi (Pixabay, Content ID: do not boost)",
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-25-s-1300",
-      "when": "2026-10-25T13:00:00-06:00",
-      "type": "story",
-      "approved": true,
-      "media": [],
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-25-c2-off-hours",
-      "when": "2026-10-25T15:00:00-06:00",
-      "type": "carousel",
-      "approved": true,
-      "media": [],
-      "caption": "off hours / 001. sunday, slowly.\n\nthree records for doing nothing, and the album they press into together.\n\nwhat's on your sunday?\n\n#sundaymood #musictaste #albumart #musiclovers #offrotation",
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-25-s-1730",
-      "when": "2026-10-25T17:30:00-06:00",
-      "type": "story",
-      "approved": true,
-      "media": [],
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-25-r5-memories",
-      "when": "2026-10-25T19:30:00-06:00",
-      "type": "reel",
-      "approved": true,
-      "media": [],
-      "caption": "one song, two memories.\n\n01 good days · sza\n02 ojitos lindos · bad bunny\n03 yellow · coldplay\n\nsame song, different person for everyone. which memory is yours?\n\n#musictaste #sza #badbunny #musiclovers #offrotation",
-      "music": "Smooth Jazz (Pixabay, Content ID: do not boost)",
-      "cleaned": true
-    },
-    {
-      "id": "2026-10-25-s-2130",
-      "when": "2026-10-25T21:30:00-06:00",
-      "type": "story",
-      "approved": true,
-      "media": [
-        "posts/2026-10-25-s-2130/story.jpg"
-      ]
-    }
-  ]
+ "timezone_note": "Times are Guatemala time (UTC-06:00). A post only publishes when approved is true.",
+ "posts": [
+  {
+   "id": "2026-10-23-intro",
+   "when": "2026-10-22T19:45:00-06:00",
+   "type": "carousel",
+   "approved": true,
+   "media": [],
+   "caption": "for people who know the deep cut.\n\nwe're off rotation, a small studio making things for people who live for music. here you'll find songs worth knowing, your taste pressed into album covers, and the apps we build along the way.\n\nfirst release: soulprint. pick three songs, get an album nobody else has.\n\ndrop your three songs below. we're pressing the best ones.\n\n#musictaste #deepcuts #albumart #musiclovers #vinylcommunity",
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-22-intro-v2",
+   "when": "2026-10-22T20:30:00-06:00",
+   "type": "carousel",
+   "approved": true,
+   "media": [],
+   "caption": "for people who know the deep cut.\n\nwe're off rotation, a small studio making things for people who live for music. deep cuts worth knowing, your taste pressed into album covers, and the apps we build along the way.\n\nfirst release: soulprint. pick three songs, get a one-of-one album cover with its own back cover and tune. no release date yet. it's coming soon.\n\ndrop your three songs below. we'll press a few before launch.\ndéjanos tus tres canciones.\n\n#musictaste #deepcuts #albumart #musiclovers #vinylcommunity",
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-23-story-fri",
+   "when": "2026-10-23T12:00:00-06:00",
+   "type": "story",
+   "approved": true,
+   "media": [],
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-23-intro-v3",
+   "when": "2026-10-23T18:30:00-06:00",
+   "type": "carousel",
+   "approved": true,
+   "media": [],
+   "caption": "off rotation. an account worth staying for.\n\nmusic for the moments you can't name. three songs for every feeling, a few every week. and soon, soulprint: three songs in, one album out.\n\ndrop your three songs below. we'll press a few of them right here.\n\n#musictaste #musiclovers #albumart #playlist #offrotation",
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-23-r1-longway",
+   "when": "2026-10-23T19:30:00-06:00",
+   "type": "reel",
+   "approved": true,
+   "media": [],
+   "caption": "take the long way home.\n\nthree songs, no skips:\n01 take the long way home · supertramp\n02 landslide · fleetwood mac\n03 eres · café tacvba\n\nwhat's the song you save for the drive back?\n\n#musictaste #roadtrip #playlist #musiclovers #offrotation",
+   "music": "Deep House Sunset (Pixabay, clean)",
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-23-s-2130",
+   "when": "2026-10-23T21:30:00-06:00",
+   "type": "story",
+   "approved": true,
+   "media": [],
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-24-s-0900",
+   "when": "2026-10-24T09:00:00-06:00",
+   "type": "story",
+   "approved": true,
+   "media": [],
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-24-r2-party",
+   "when": "2026-10-24T11:00:00-06:00",
+   "type": "reel",
+   "approved": true,
+   "media": [],
+   "caption": "the song after the party.\n\nfor the walk home:\n01 self control · frank ocean\n02 angels · the xx\n03 telepatía · kali uchis\n\nwhich one plays when the night's over?\n\n#latenight #musictaste #frankocean #musiclovers #offrotation",
+   "music": "Deep House Sunset (Pixabay, clean, boost candidate)",
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-24-s-1300",
+   "when": "2026-10-24T13:00:00-06:00",
+   "type": "story",
+   "approved": true,
+   "media": [],
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-24-c1-start-here",
+   "when": "2026-10-24T15:00:00-06:00",
+   "type": "carousel",
+   "approved": true,
+   "media": [],
+   "caption": "start here.\n\nthree records for the long way home:\n01 pink + white · frank ocean\n02 space song · beach house\n03 hasta la raíz · natalia lafourcade\n\nand the album they make together, pressed in soulprint.\n\nsave this for your next drive.\n\n#musictaste #playlist #albumart #musiclovers #offrotation",
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-24-s-1730",
+   "when": "2026-10-24T17:30:00-06:00",
+   "type": "story",
+   "approved": true,
+   "media": [],
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-24-r3-nostalgia",
+   "when": "2026-10-24T19:30:00-06:00",
+   "type": "reel",
+   "approved": true,
+   "media": [],
+   "caption": "what nostalgia looks like.\n\n01 dreams · fleetwood mac\n02 de música ligera · soda stereo\n03 fade into you · mazzy star\n\nwhat song sends you straight back?\n\n#nostalgia #musictaste #fleetwoodmac #sodastereo #offrotation",
+   "music": "Chill Lofi (Pixabay, Content ID: do not boost)",
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-24-s-2130",
+   "when": "2026-10-24T21:30:00-06:00",
+   "type": "story",
+   "approved": true,
+   "media": [],
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-25-s-0900",
+   "when": "2026-10-25T09:00:00-06:00",
+   "type": "story",
+   "approved": true,
+   "media": [],
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-25-r4-sunday",
+   "when": "2026-10-25T11:00:00-06:00",
+   "type": "reel",
+   "approved": true,
+   "media": [],
+   "caption": "sunday, slowly.\n\noff hours / 001:\n01 don't know why · norah jones\n02 peace piece · bill evans\n03 todo se transforma · jorge drexler\n\nnothing to do. just listen.\n\n#sundaymood #slowsunday #jazz #musictaste #offrotation",
+   "music": "Chill Lofi (Pixabay, Content ID: do not boost)",
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-25-s-1300",
+   "when": "2026-10-25T13:00:00-06:00",
+   "type": "story",
+   "approved": true,
+   "media": [],
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-25-c2-off-hours",
+   "when": "2026-10-25T15:00:00-06:00",
+   "type": "carousel",
+   "approved": true,
+   "media": [],
+   "caption": "off hours / 001. sunday, slowly.\n\nthree records for doing nothing, and the album they press into together.\n\nwhat's on your sunday?\n\n#sundaymood #musictaste #albumart #musiclovers #offrotation",
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-25-s-1730",
+   "when": "2026-10-25T17:30:00-06:00",
+   "type": "story",
+   "approved": true,
+   "media": [],
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-25-r5-memories",
+   "when": "2026-10-25T19:30:00-06:00",
+   "type": "reel",
+   "approved": true,
+   "media": [],
+   "caption": "one song, two memories.\n\n01 good days · sza\n02 ojitos lindos · bad bunny\n03 yellow · coldplay\n\nsame song, different person for everyone. which memory is yours?\n\n#musictaste #sza #badbunny #musiclovers #offrotation",
+   "music": "Smooth Jazz (Pixabay, Content ID: do not boost)",
+   "cleaned": true
+  },
+  {
+   "id": "2026-10-25-s-2130",
+   "when": "2026-10-25T21:30:00-06:00",
+   "type": "story",
+   "approved": true,
+   "media": [
+    "posts/2026-10-25-s-2130/story.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-26-promo-01",
+   "when": "2026-10-26T12:00:00-06:00",
+   "type": "reel",
+   "approved": true,
+   "media": [
+    "posts/2026-10-26-promo-01/reel.mp4"
+   ],
+   "cover": "posts/2026-10-26-promo-01/cover.jpg",
+   "music": "70s Another Funky Disco by pietiX (Pixabay, boost-safe) + AI voiceover",
+   "caption": "your three favorite songs say more about you than you think.\n\nsoulprint turns any three songs into an album that's only yours: its own cover art, a back sleeve with liner notes about you, and a tune made from your picks. same three songs, same album, every time.\n\nfree, for music lovers. coming soon to the app store. follow so you're first to press yours.\n\nwhich three would you pick? drop them below.\n\n#soulprint #musiclovers #albumart #vinyl #musictaste #newapp"
+  },
+  {
+   "id": "2026-10-26-promo-02",
+   "when": "2026-10-26T18:30:00-06:00",
+   "type": "reel",
+   "approved": true,
+   "media": [
+    "posts/2026-10-26-promo-02/reel.mp4"
+   ],
+   "cover": "posts/2026-10-26-promo-02/cover.jpg",
+   "music": "Deep House Sunset (Pixabay, boost-safe) + AI voiceover",
+   "caption": "pearl jam, fleetwood mac and despacito made \"light gets in sideways.\"\ncelia cruz, rubén blades and willie colón made \"sabor de barrio.\"\n\nsoulprint presses any three songs into the album they'd make: cover, back sleeve, liner notes and its own tune.\n\nfree, for music lovers. coming soon to the app store.\n\nwhat would your three make? comment them below.\n\n#soulprint #musiclovers #albumart #salsa #fleetwoodmac #pearljam #newapp"
+  }
+ ]
 }
