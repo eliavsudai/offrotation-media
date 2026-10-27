@@ -2,6 +2,7 @@
 # One check-in: publish anything due, clean up media >1h after publishing, list new comments.
 cd /home/claude/offrotation-media
 git pull -q 2>&1 | tail -1
+python3 -c "import json,urllib.request,datetime;T=open('/home/claude/secure/ig_token').read().strip();n=json.load(urllib.request.urlopen('https://graph.instagram.com/v23.0/me?fields=followers_count&access_token='+T))['followers_count'];open('publisher/followers.log','a').write(datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='seconds')+' '+str(n)+'\n')" 2>/dev/null || true
 IG_TOKEN=$(cat /home/claude/secure/ig_token) timeout 550 python3 publisher/publish.py 2>&1 | grep -E "PUBLISH|done|ERROR|SKIP"
 python3 - <<'PY'
 import json, os, shutil, datetime as dt
