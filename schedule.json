@@ -199,6 +199,18 @@
    "format": 2,
    "dur": 21.9,
    "cleaned": true
+  },
+  {
+   "id": "2026-10-27-lesson-01-test",
+   "when": "2026-10-27T09:40:00-06:00",
+   "type": "reel",
+   "approved": true,
+   "media": [
+    "posts/2026-10-27-lesson-01-test/reel.mp4"
+   ],
+   "cover": "posts/2026-10-27-lesson-01-test/cover.jpg",
+   "music": "Deep House Sunset (Pixabay, boost-safe) + AI voice",
+   "caption": "despacito and creep are almost the same tempo.\ndespacito sits around 89 bpm, creep around 92.\nthe difference is the dembow: a steady kick on every beat, with accents on top in groups of 3+3+2.\nthe beat is named after shabba ranks' 1990 song 'dem bow'.\nsources: musicnotes, berklee, bandcamp daily.\nwhat would your three songs be?\n#reggaeton #dembow #musictheory #despacito #radiohead"
   }
  ]
 }

@@ -1,0 +1,2432 @@
+[
+ {
+  "type": "Tempo and feel",
+  "label": "REGGAETON FANS",
+  "hook": "Despacito & Creep: almost the same tempo",
+  "facts": [
+   {
+    "claim": "Despacito is in 4/4, in B minor, at 89 BPM",
+    "number": "89 BPM",
+    "source_url": "https://austria-forum.org/af/AustriaWiki/Despacito",
+    "quote": "die im 4/4-Takt in h-Moll komponiert wurde und ein Tempo von 89 bpm hat."
+   },
+   {
+    "claim": "A DJ database cross-check also gives Despacito at 89 BPM (published and measured). The official Musicnotes sheet says about 88, so we use 89.",
+    "number": "89 BPM",
+    "source_url": "https://cs.uwaterloo.ca/~dtompkin/music/track/CHRRADIO_382/CHRRADIO_382-01.html",
+    "quote": "Published BPM: 89 / Mixmeister BPM: 89.0"
+   },
+   {
+    "claim": "The official sheet music for Despacito gives about 88 BPM, in B minor",
+    "number": "88 BPM",
+    "source_url": "https://www.musicnotes.com/sheetmusic/dpsm/despacito/MN0176134",
+    "quote": "The tempo is around 88 BPM."
+   },
+   {
+    "claim": "Creep is notated at about 92 BPM. One beat-detection tool double-counts it at 181, so we use 92.",
+    "number": "92 BPM",
+    "source_url": "https://www.musicnotes.com/sheetmusic/radiohead/creep/MN0103668",
+    "quote": "The tempo is moderately, at around 92 BPM."
+   },
+   {
+    "claim": "A second source measures Creep at 92.1 BPM",
+    "number": "92.1 BPM",
+    "source_url": "https://cs.uwaterloo.ca/~dtompkin/music/track/POWERTRK_106/POWERTRK_106-06.html",
+    "quote": "Mixmeister BPM: 92.1 / Traktor BPM: 181.3"
+   },
+   {
+    "claim": "Dembow takes its name from Shabba Ranks' 1990 song Dem Bow",
+    "number": "1990",
+    "source_url": "https://college.berklee.edu/news/what-is-dembow-tracing-the-roots-of-a-global-phenomenon",
+    "quote": "the 1990 song 'Dem Bow,' by Jamaican dancehall musician Shabba Ranks"
+   },
+   {
+    "claim": "Berklee describes Despacito's rhythm as built around dembow",
+    "number": "2017",
+    "source_url": "https://college.berklee.edu/news/what-is-dembow-tracing-the-roots-of-a-global-phenomenon",
+    "quote": "'Despacito,' the 2017 mega-hit by Luis Fonsi and Daddy Yankee"
+   },
+   {
+    "claim": "Dembow: a four-on-the-floor loop with a 3+3+2 cross-rhythm on top",
+    "number": "3+3+2",
+    "source_url": "https://daily.bandcamp.com/lists/dembow-rhythm-list",
+    "quote": "a four-on-the-floor percussive loop with a 3+3+2 cross-rhythm"
+   },
+   {
+    "claim": "Creep measured at 92 BPM (machine analysis); sheet music marks 96, so the script says 'about 92'",
+    "number": "92",
+    "source_url": "https://acousticbrainz.org/341f2962-744a-4e4d-b076-57acb8970259",
+    "quote": "bpm 92"
+   }
+  ],
+  "script": [
+   "Despacito and Creep: almost the same tempo.",
+   "Despacito: about eighty-nine beats per minute. Creep: about ninety-two. We pressed all three songs here into an album.",
+   "So why does one make you dance, and the other make you stare at the ceiling?",
+   "It's the accents. A steady kick on every beat, with hits on top in groups of three, three, and two.",
+   "So where did that beat come from? Jamaica. Shabba Ranks' 1990 song, Dem Bow, gave it its name.",
+   "Same speed. Different accents. A completely different feeling.",
+   "So we pressed these three into an album."
+  ],
+  "highlights": [
+   "",
+   "89 · 92",
+   "dance · ceiling",
+   "3 + 3 + 2",
+   "Jamaica · 1990",
+   "accents",
+   ""
+  ],
+  "visuals": [
+   "Two tempo bars side by side, nearly equal length, labeled 89 and 92",
+   "Metronome dots pulsing at both tempos in sync",
+   "Split screen: bouncing dot vs slow drifting dot",
+   "Eight-pulse grid that lights up in groups of 3+3+2",
+   "Map arrow from Jamaica to Panama to Puerto Rico with a '1990' tag",
+   "The same tempo bar with two different accent patterns stacked on top",
+   "Three vinyl outlines pressing into one record"
+  ],
+  "picks": [
+   {
+    "song": "Despacito",
+    "artist": "Luis Fonsi & Daddy Yankee"
+   },
+   {
+    "song": "Creep",
+    "artist": "Radiohead"
+   },
+   {
+    "song": "Dem Bow",
+    "artist": "Shabba Ranks"
+   }
+  ],
+  "caption": "despacito and creep are almost the same tempo.\ndespacito sits around 89 bpm, creep around 92.\nthe difference is the dembow: a steady kick on every beat, with accents on top in groups of 3+3+2.\nthe beat is named after shabba ranks' 1990 song 'dem bow'.\nsources: musicnotes, berklee, bandcamp daily.\nwe pressed all three into an album.\nwhat would your three make?\n#reggaeton #dembow #musictheory #despacito #radiohead",
+  "status": "verified (independent fact-check) · rendered",
+  "n": 1
+ },
+ {
+  "type": "Where a sound came from",
+  "label": "REGGAETON · 1990",
+  "hook": "Reggaeton's beat is named after a 1990 Jamaican song",
+  "facts": [
+   {
+    "claim": "The beat takes its name from Shabba Ranks' 1990 'Dem Bow'",
+    "number": "1990",
+    "source_url": "https://college.berklee.edu/news/what-is-dembow-tracing-the-roots-of-a-global-phenomenon",
+    "quote": "the name comes from the 1990 song \"Dem Bow,\" by Jamaican dancehall musician Shabba Ranks"
+   },
+   {
+    "claim": "Over 100,000 people moved to the Isthmus of Panama (canal-era West Indian migration)",
+    "number": "100,000+",
+    "source_url": "https://unesco.org.uk/our-sites/memory-of-the-world/silver-men-archive",
+    "quote": "the movement of over 100,000 people to the Isthmus of Panama"
+   },
+   {
+    "claim": "Descendants of Jamaican migrants began making reggae in Spanish in the 1980s",
+    "number": "1980s",
+    "source_url": "https://www.sibetrans.com/etno/public/docs/9-arias_1.pdf",
+    "quote": "comenzaron a hacer reggae en español en los años 80"
+   },
+   {
+    "claim": "Nando Boom's 'Ellos Benia (Dem Bow)', 1991, a close translation of Shabba's 'Dem Bow'",
+    "number": "1991",
+    "source_url": "https://theworld.org/stories/2014/04/21/old-school-panamanian-reggae-run-down-2",
+    "quote": "Ellos Benia (Dem Bow) 1991"
+   },
+   {
+    "claim": "Gasolina, 2004, took reggaeton to markets far beyond Puerto Rico",
+    "number": "2004",
+    "source_url": "https://blogs.loc.gov/now-see-hear/2024/09/gasolina/",
+    "quote": "In 2004, it seemed you couldn't go anywhere without hearing Daddy Yankee's 'Gasolina.'"
+   }
+  ],
+  "script": [
+   "Reggaeton's beat is named after a 1990 Jamaican song.",
+   "Three songs tell the trip, and we pressed all three into an album.",
+   "Stop one, Jamaica, 1990: Shabba Ranks' Dem Bow.",
+   "So how did a Jamaican beat learn Spanish?",
+   "Panama: over a hundred thousand West Indian workers came to build the canal. By the eighties, their descendants made reggae in Spanish.",
+   "1991: Nando Boom's Ellos Benia, a Spanish version of Dem Bow.",
+   "Puerto Rico, 2004: Daddy Yankee's Gasolina carried it far beyond the island.",
+   "So we pressed these three into an album."
+  ],
+  "highlights": [
+   "",
+   "three · album",
+   "1990",
+   "Spanish?",
+   "100,000 · 80s",
+   "1991",
+   "2004",
+   ""
+  ],
+  "visuals": [
+   "Rhythm grid: the boom-ch-boom-chick dembow pattern lights up step by step",
+   "Three empty record slots appear in a row",
+   "Map: a pin pulses on Jamaica with the label 1990",
+   "A dotted line arcs from Jamaica toward Panama, ending in a question mark",
+   "Map: the line lands in Panama; a small canal icon appears with '100,000 Caribbean workers'",
+   "The line jumps from Panama to Puerto Rico; a timeline stamps 2004 and the arc widens to a world map",
+   "The three slots fill and press together into one disc"
+  ],
+  "picks": [
+   {
+    "song": "Dem Bow",
+    "artist": "Shabba Ranks"
+   },
+   {
+    "song": "Ellos Benia",
+    "artist": "Nando Boom"
+   },
+   {
+    "song": "Gasolina",
+    "artist": "Daddy Yankee"
+   }
+  ],
+  "caption": "reggaeton's beat is named after a 1990 jamaican song.\nshabba ranks' 'dem bow' gave the beat its name.\nover 100,000 west indian workers went to panama for the canal. by the 80s their descendants made reggae in spanish, and in 1991 nando boom recorded 'ellos benia', a spanish 'dem bow'.\nin 2004 'gasolina' carried it far beyond puerto rico.\nsources: berklee, unesco, the world, library of congress.\nwe pressed all three into an album.\nwhat would your three make?\n#reggaeton #dembow #dancehall #panama #musichistory",
+  "status": "verified (independent fact-check) · rendered",
+  "n": 2
+ },
+ {
+  "type": "The numbers behind a hit",
+  "label": "GUITAR BEGINNERS",
+  "hook": "Fleetwood Mac's only No. 1: two chords",
+  "facts": [
+   {
+    "claim": "Dreams has two chords, F and G, plus a third that appears once (Am, in the instrumental break)",
+    "number": "2 chords (+1 once)",
+    "source_url": "https://www.ethanhein.com/wp/2025/what-key-is-dreams-by-fleetwood-mac-actually-in/",
+    "quote": "only has two chords (plus a third chord that only appears once)"
+   },
+   {
+    "claim": "Dreams was Fleetwood Mac's first and only Hot 100 No. 1 (June 18, 1977), with one week on top",
+    "number": "1 week at No. 1",
+    "source_url": "https://americansongwriter.com/on-this-day-in-1977-fleetwood-mac-scored-their-only-hot-100-no-1-with-a-song-that-would-re-enter-the-charts-40-years-later/?nb=1",
+    "quote": "reached the top of the Billboard Hot 100 for the first and only time with 'Dreams.'"
+   },
+   {
+    "claim": "After a viral 2020 TikTok, Dreams re-entered the Hot 100 and peaked at No. 12",
+    "number": "No. 12 (2020)",
+    "source_url": "https://americansongwriter.com/on-this-day-in-1977-fleetwood-mac-scored-their-only-hot-100-no-1-with-a-song-that-would-re-enter-the-charts-40-years-later/?nb=1",
+    "quote": "The song re-entered the Hot 100 and peaked at No. 12."
+   },
+   {
+    "claim": "Oye Como Va has two chords, Am7 and D7. Ethan Hein gives D7; many chord charts write D9.",
+    "number": "2 chords",
+    "source_url": "https://ethanhein.substack.com/p/oye-como-va",
+    "quote": "\"Oye Como Va\" only has two chords"
+   },
+   {
+    "claim": "Coconut uses one arpeggiated C7 chord from start to finish and peaked at No. 8 on the Hot 100",
+    "number": "1 chord; No. 8",
+    "source_url": "https://americansongwriter.com/3-one-chord-songs-that-used-minimalism-to-become-pop-staples/?nb=1",
+    "quote": "only uses on arpeggiated C7 chord from start to finish"
+   },
+   {
+    "claim": "Dreams re-entered the Hot 100 in 2020 and climbed to No. 12",
+    "number": "No. 12",
+    "source_url": "https://wdrv.com/?p=35991",
+    "quote": "re-entered at No. 22 and climbed to a No. 12 peak the following week"
+   }
+  ],
+  "script": [
+   "Fleetwood Mac's only number one runs on two chords.",
+   "Three hits built on almost nothing, and we pressed all three into an album.",
+   "Dreams: F and G, one bar each, over and over. A third chord shows up once.",
+   "Santana's Oye Como Va? Also two. A minor seven, and D seven.",
+   "So how low can a hit go? Harry Nilsson's Coconut: one chord, start to finish.",
+   "And it still reached number eight on the Hot 100.",
+   "Then in 2020, a viral TikTok sent Dreams back up to number twelve.",
+   "So we pressed these three into an album."
+  ],
+  "highlights": [
+   "",
+   "three · album",
+   "F · G",
+   "Am7 · D7",
+   "one",
+   "8",
+   "2020 · 12",
+   ""
+  ],
+  "visuals": [
+   "Two chord boxes with a big '2'",
+   "F and G chord boxes flipping back and forth",
+   "Am7 and D7 chord boxes",
+   "A single C7 chord box, spotlighted",
+   "Chart ladder climbing to No. 8",
+   "Timeline from 1977 to 2020 with a re-entry tick",
+   "Three vinyl outlines pressing into one record"
+  ],
+  "picks": [
+   {
+    "song": "Dreams",
+    "artist": "Fleetwood Mac"
+   },
+   {
+    "song": "Oye Como Va",
+    "artist": "Santana"
+   },
+   {
+    "song": "Coconut",
+    "artist": "Harry Nilsson"
+   }
+  ],
+  "caption": "fleetwood mac's only no. 1 runs on two chords.\n'dreams' is f and g, one bar each, plus a chord that shows up once.\n'oye como va': two chords (am7, d7). nilsson's 'coconut': one c7, start to finish, and it still hit no. 8.\nin 2020 a viral tiktok sent 'dreams' back up to no. 12.\nsources: ethan hein, american songwriter, wdrv.\nwe pressed all three into an album.\nwhat would your three make?\n#guitar #chords #fleetwoodmac #santana #musictheory",
+  "status": "verified (independent fact-check) · rendered",
+  "n": 3
+ },
+ {
+  "type": "Where a sound came from",
+  "label": "SALSA · 1970S",
+  "hook": "Salsa wasn't born in Cuba. Or was it?",
+  "facts": [
+   {
+    "claim": "Johnny Pacheco and Jerry Masucci founded Fania Records in 1964",
+    "number": "1964",
+    "source_url": "https://carnegiehall.org/Explore/Articles/2024/12/20/Salsas-New-York-History",
+    "quote": "Together, they founded Fania in 1964."
+   },
+   {
+    "claim": "Izzy Sanabria is credited with coining the term 'salsa'",
+    "number": "1970s",
+    "source_url": "https://carnegiehall.org/Explore/Articles/2024/12/20/Salsas-New-York-History",
+    "quote": "Sanabria has been credited with coining the term salsa"
+   },
+   {
+    "claim": "Celia Cruz reportedly described salsa as Cuban music under a new name",
+    "number": "",
+    "source_url": "https://carnegiehall.org/Explore/Articles/2024/12/20/Salsas-New-York-History",
+    "quote": "Cuban music with another name"
+   },
+   {
+    "claim": "Willie Colón and Héctor Lavoe wrote 'Che Ché Colé' in 1969, on the album Cosa Nuestra. Colón died in February 2026 at 75",
+    "number": "1969",
+    "source_url": "https://au.rollingstone.com/music/music-news/willie-colon-salsa-icon-dead-obituary-91415/",
+    "quote": "Rolling Stone obituary: Colón (born April 28, 1950) wrote 'Che Ché Colé' with Héctor Lavoe in 1969 (paraphrase of article)"
+   },
+   {
+    "claim": "Celia & Johnny, the 1974 Vaya album with 'Quimbara', went Gold",
+    "number": "1974",
+    "source_url": "https://craftrecordings.com/blogs/news/celia-and-johnny",
+    "quote": "the album quickly became a Gold-certified best-seller"
+   },
+   {
+    "claim": "Siembra, Rubén Blades and Willie Colón's 1978 album, became Fania's best-selling record of all time",
+    "number": "1978",
+    "source_url": "https://carnegiehall.org/Explore/Articles/2024/12/20/Salsas-New-York-History",
+    "quote": "became Fania's all-time bestselling record"
+   },
+   {
+    "claim": "'Pedro Navaja' is on Siembra",
+    "number": "1978",
+    "source_url": "https://jazzjournal.co.uk/2021/10/08/willie-colon-and-ruben-blades-siembra/",
+    "quote": "the multi-layered Pedro Navaja"
+   }
+  ],
+  "script": [
+   "Salsa wasn't born in Cuba. Or was it?",
+   "Three New York records tell the story, and we pressed all three into an album.",
+   "1969, the Bronx: Willie Colón and Héctor Lavoe cut 'Che Ché Colé.'",
+   "1974: Celia Cruz and Johnny Pacheco's 'Quimbara' goes gold. Celia reportedly called salsa 'Cuban music with another name.'",
+   "So where did the word 'salsa' come from? Izzy Sanabria is often credited with it.",
+   "1978: Rubén Blades and Colón's Siembra, with 'Pedro Navaja,' became Fania's all-time bestseller.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "Cuba?",
+   "New York",
+   "1969",
+   "1974",
+   "salsa",
+   "1978",
+   "album"
+  ],
+  "visuals": [
+   "Map: an arrow from Havana to New York, with a question mark hovering over both",
+   "Three record slots appear over a New York skyline outline",
+   "Timeline: a pin drops at 1969 on 'The Bronx'",
+   "Timeline: 1974 pin; the word 'son cubano' turns into 'salsa'",
+   "The word SALSA is typed out letter by letter over a magazine-cover rectangle",
+   "Timeline: 1978 pin with a bar chart where one bar labeled 'Fania's #1 seller' rises above the rest",
+   "The three slots press into one disc"
+  ],
+  "picks": [
+   {
+    "artist": "Celia Cruz",
+    "song": null
+   },
+   {
+    "artist": "Rubén Blades",
+    "song": null
+   },
+   {
+    "artist": "Willie Colón",
+    "song": null
+   }
+  ],
+  "caption": "salsa wasn't born in cuba. or was it?\nfania started in new york in 1964, and izzy sanabria is often credited with coining the word 'salsa.'\ncelia cruz reportedly called it 'cuban music with another name.'\nsiembra (1978) became fania's all-time bestseller. rip willie colón (1950–2026).\nsources: carnegie hall, rolling stone, craft recordings.\nwe pressed all three into an album.\nwhat would your three make?\n#salsa #celiacruz #rubenblades #williecolon #fania",
+  "press_note": "artist picks → 'Sabor de Barrio'",
+  "n": 4,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "Same song, different era",
+  "label": "AUDIO NERDS",
+  "hook": "From DR16 to DR3: the loudness war",
+  "facts": [
+   {
+    "claim": "In mastering engineer Ian Shepherd's comparison, Dire Straits' Brothers in Arms had the widest dynamic range",
+    "number": "DR16",
+    "source_url": "https://loudwire.com/study-metallica-mastered-loudest-album-ever/",
+    "quote": "Dire Straits' Brothers in Arms actually had the broadest dynamic range with a DR16 tally."
+   },
+   {
+    "claim": "Californication (1999) scored DR5",
+    "number": "DR5",
+    "source_url": "https://loudwire.com/study-metallica-mastered-loudest-album-ever/",
+    "quote": "Red Hot Chili Peppers' 1999 disc Californication, which received a DR5 rank."
+   },
+   {
+    "claim": "Death Magnetic (2008) scored DR3, the loudest in the comparison",
+    "number": "DR3",
+    "source_url": "https://loudwire.com/study-metallica-mastered-loudest-album-ever/",
+    "quote": "Metallica have reached DR3 (Dynamic Range 3) with their 2008 album Death Magnetic."
+   },
+   {
+    "claim": "The average 1980s rock song sat around −16.8 dBFS RMS",
+    "number": "−16.8 dBFS",
+    "source_url": "https://en.wikipedia.org/wiki/Loudness_war",
+    "quote": "The average RMS level of the average rock song during most of the decade was around −16.8 dBFS."
+   },
+   {
+    "claim": "The Guitar Hero version of Death Magnetic sounded better than the CD",
+    "number": "2008",
+    "source_url": "https://www.rollingstone.com/music/news/fans-complain-after-death-magnetic-sounds-better-on-guitar-hero-than-cd-20080918",
+    "quote": "the video game version of the album would actually sound better than the CD counterpart."
+   }
+  ],
+  "script": [
+   "The loudness war, in three records.",
+   "One song from each, and we pressed all three into an album.",
+   "Dire Straits' Brothers in Arms measures DR16: wide space between soft and loud.",
+   "1999, Californication: DR5.",
+   "So how far did it go? Metallica's Death Magnetic, 2008: DR3.",
+   "Fans found the Guitar Hero version sounded better than the CD.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "loudness war",
+   "three",
+   "DR16",
+   "DR5",
+   "DR3",
+   "Guitar Hero",
+   "three"
+  ],
+  "visuals": [
+   "Waveform being squashed flat by a vise",
+   "Three waveform outlines in a row",
+   "Tall, spiky waveform labeled DR16",
+   "Half-squashed waveform labeled DR5 on a 1999 timeline tick",
+   "Brick-shaped waveform labeled DR3 on a 2008 tick",
+   "Two waveforms side by side, game controller icon vs disc icon",
+   "Three vinyl outlines pressing into one record"
+  ],
+  "picks": [
+   {
+    "song": "Money for Nothing",
+    "artist": "Dire Straits"
+   },
+   {
+    "song": "Californication",
+    "artist": "Red Hot Chili Peppers"
+   },
+   {
+    "song": "The Day That Never Comes",
+    "artist": "Metallica"
+   }
+  ],
+  "caption": "from dr16 to dr3: the loudness war in three records.\nbrothers in arms measures dr16, californication (1999) dr5, death magnetic (2008) dr3.\na lower number means less space between quiet and loud.\nfans even said the guitar hero version of death magnetic sounded better than the cd.\nsources: ian shepherd via loudwire, rolling stone.\nwe pressed all three into an album.\nwhat would your three make?\n#loudnesswar #mastering #audio #musichistory #offrotation",
+  "n": 5,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "samples and connections",
+  "label": "LATIN POP · 2006",
+  "hook": "Shakira's 2006 smash opens with a 1992 salsa riff",
+  "facts": [
+   {
+    "claim": "The trumpet intro on \"Hips Don't Lie\" comes from Jerry Rivera's 1992 track \"Amores Como El Nuestro\".",
+    "number": "1992",
+    "source_url": "https://www.songfacts.com/facts/shakira/hips-dont-lie",
+    "quote": "The trumpet flourish on the intro comes from a 1992 track called 'Amores Como El Nuestro' by Jerry Rivera"
+   },
+   {
+    "claim": "\"Hips Don't Lie\" is built on \"Dance Like This\", which Wyclef Jean recorded with Claudette Ortiz for the 2004 Dirty Dancing: Havana Nights soundtrack.",
+    "number": "2004",
+    "source_url": "https://www.songfacts.com/facts/shakira/hips-dont-lie",
+    "quote": "based on 'Dance Like This,' a song Wyclef Jean (of the Fugees) recorded with Claudette Ortiz"
+   },
+   {
+    "claim": "Jerry Rivera said Wyclef Jean was behind the concept, not Shakira. He took no legal action, since the trumpet arrangement wasn't his, and saw the use as a tribute.",
+    "number": "",
+    "source_url": "https://www.publimetro.co/entretenimiento/2024/11/25/jerry-riviera-dio-detalles-de-demanda-a-shakira-por-usar-su-intro-en-hips-dont-lie/",
+    "quote": "realmente quien estuvo detrás de todo el concepto fue Wyclef Jean"
+   },
+   {
+    "claim": "\"Hips Don't Lie\" went to No. 1 in the US on June 17, 2006, Shakira's only US No. 1.",
+    "number": "June 17, 2006",
+    "source_url": "https://www.songfacts.com/facts/shakira/hips-dont-lie",
+    "quote": "became her only #1 hit in America"
+   }
+  ],
+  "script": [
+   "Shakira's 2006 smash opens with a 1992 salsa riff.",
+   "One trumpet line links three songs, and we pressed all three into an album.",
+   "The riff comes from Jerry Rivera's \"Amores Como El Nuestro\", 1992.",
+   "In 2004 Wyclef built it into \"Dance Like This\" for a movie that flopped.",
+   "Two years later he reworked it with Shakira as \"Hips Don't Lie\".",
+   "It became her only US No. 1, and Rivera called it a tribute.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "1992",
+   "trumpet",
+   "Rivera",
+   "2004",
+   "Hips Don't Lie",
+   "No. 1",
+   "album"
+  ],
+  "visuals": [
+   "a trumpet waveform slides from 1992 to 2006 on a timeline",
+   "one waveform branches into three nodes",
+   "a pin at 1992 on the timeline",
+   "a second pin at 2004 with a down-arrow labeled 'flop'",
+   "an arrow from 2004 to 2006 labeled 'reworked'",
+   "a chart bar climbs to No. 1 at June 2006",
+   "three pins snap into a record circle"
+  ],
+  "picks": [
+   {
+    "song": "Amores Como El Nuestro",
+    "artist": "Jerry Rivera"
+   },
+   {
+    "song": "Dance Like This",
+    "artist": "Wyclef Jean feat. Claudette Ortiz"
+   },
+   {
+    "song": "Hips Don't Lie",
+    "artist": "Shakira feat. Wyclef Jean"
+   }
+  ],
+  "caption": "shakira's 2006 smash opens with a 1992 salsa riff.\nthe trumpet intro comes from jerry rivera's \"amores como el nuestro\".\nwyclef first used it on \"dance like this\" (2004), a soundtrack song almost nobody heard.\nreworked with shakira, it became her only us no. 1, and rivera called it a tribute.\nsources: songfacts, publimetro.\nwe pressed all three into an album.\nwhat would your three make?\n#shakira #salsa #sampling #latinmusic",
+  "n": 6,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "Where a sound came from",
+  "label": "ROCK EN ESPAÑOL · 1986–88",
+  "hook": "Rock en español had a map",
+  "facts": [
+   {
+    "claim": "Los Prisioneros' 'El baile de los que sobran' is on the 1986 album Pateando piedras and is about class divides among young Chileans",
+    "number": "1986",
+    "source_url": "https://www.memoriachilena.gob.cl/602/w3-article-95716.html",
+    "quote": "Su letra ilustra de manera amarga y desesperanzada las diferencias de clases existentes entre la juventud chilena."
+   },
+   {
+    "claim": "'Rock en tu Idioma' was a record-label slogan (RCA-Ariola) in mid-1980s Mexico",
+    "number": "mid-1980s",
+    "source_url": "https://www.chilango.com/musica/siete-canciones-insignia-del-rock-en-tu-idioma/",
+    "quote": "el eslogan de una disquera (RCA-Ariola): 'Rock en tu Idioma'"
+   },
+   {
+    "claim": "Soda Stereo, the biggest of Argentina's wave in Mexico, arrived around 1987 with Nada Personal and the hit 'Cuando Pase el Temblor'",
+    "number": "1987",
+    "source_url": "https://www.chilango.com/musica/siete-canciones-insignia-del-rock-en-tu-idioma/",
+    "quote": "el mayor representante"
+   },
+   {
+    "claim": "Caifanes came from the same label that created 'Rock en tu Idioma', and their debut single 'Mátenme Porque Me Muero' came out in 1988",
+    "number": "1988",
+    "source_url": "https://www.chilango.com/musica/siete-canciones-insignia-del-rock-en-tu-idioma/",
+    "quote": "son producto de la misma disquera que creó el concepto de 'Rock en tu Idioma'"
+   }
+  ],
+  "script": [
+   "Rock en español had a map.",
+   "Three countries, three songs, and we pressed all three into an album.",
+   "Chile, 1986: Los Prisioneros' 'El Baile de los Que Sobran,' a song about class divides.",
+   "Argentina: Soda Stereo reached Mexico around 1987 with 'Cuando Pase el Temblor.'",
+   "So why did Mexico suddenly want rock in Spanish? A label slogan: 'Rock en tu idioma.'",
+   "Their own band, Caifanes, debuted in 1988 with 'Mátenme Porque Me Muero.'",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "map",
+   "three",
+   "1986",
+   "1987",
+   "slogan",
+   "1988",
+   "album"
+  ],
+  "visuals": [
+   "A blank map of Latin America draws itself in",
+   "Three pins drop: Santiago, Buenos Aires, Mexico City",
+   "The Santiago pin glows; a timeline marker reads 1986",
+   "An arrow flies from Buenos Aires up to Mexico City, labeled ~1987",
+   "A speech-bubble 'slogan' stamps ROCK EN TU IDIOMA over Mexico",
+   "The Mexico City pin glows with 1988; all three pins connect by lines",
+   "The connected pins fold into one pressed disc"
+  ],
+  "picks": [
+   {
+    "artist": "Soda Stereo",
+    "song": null
+   },
+   {
+    "artist": "Caifanes",
+    "song": null
+   },
+   {
+    "artist": "Los Prisioneros",
+    "song": null
+   }
+  ],
+  "caption": "rock en español had a map.\nchile, 1986: los prisioneros put class anger into 'el baile de los que sobran.'\nsoda stereo crossed from argentina to mexico around 1987.\nin mexico, 'rock en tu idioma' started as a label slogan, and caifanes debuted in 1988.\nsources: memoria chilena, chilango.\nwe pressed all three into an album.\nwhat would your three make?\n#rockenespañol #sodastereo #caifanes #losprisioneros #rockentuidioma",
+  "press_note": "artist picks → 'Sin Suelo'",
+  "n": 7,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "Tempo and feel",
+  "label": "HIP-HOP HEADS",
+  "hook": "HUMBLE. is 150 BPM. It feels like 75",
+  "facts": [
+   {
+    "claim": "The HUMBLE. sheet music is marked at about 75 BPM",
+    "number": "75 BPM",
+    "source_url": "https://apps.musicnotes.com/sheetmusic/hdpiano/humble/MN0180608",
+    "quote": "played at about 75 BPM"
+   },
+   {
+    "claim": "A DJ database lists HUMBLE. at 76 BPM published, while beat software measures 150. The two are the half-time and double-time readings of the same groove.",
+    "number": "76 / 150 BPM",
+    "source_url": "https://cs.uwaterloo.ca/~dtompkin/music/track/CHRRADIO_380/CHRRADIO_380-08.html",
+    "quote": "Published BPM: 76 / Mixmeister BPM: 150.0"
+   },
+   {
+    "claim": "Rockstar is listed at 80 BPM published and measured at 160",
+    "number": "80 / 160 BPM",
+    "source_url": "https://cs.uwaterloo.ca/~dtompkin/music/track/CHRRADIO_392/CHRRADIO_392-10.html",
+    "quote": "Published BPM: 80 / Mixmeister BPM: 160.0"
+   },
+   {
+    "claim": "A second source gives Rockstar at 160 BPM",
+    "number": "160 BPM",
+    "source_url": "https://emastered.com/blog/post-malone-rockstar-bpm",
+    "quote": "With a BPM of 160, it's sure to keep you moving to the tempo."
+   },
+   {
+    "claim": "Bad and Boujee is listed at 64 BPM published and measured at 127. Only one full source was found; an audiokeychain search result also points to 127.",
+    "number": "64 / 127 BPM",
+    "source_url": "https://cs.uwaterloo.ca/~dtompkin/music/track/CHRRADIO_374/CHRRADIO_374-06.html",
+    "quote": "Published BPM: 64 / Mixmeister BPM: 127.0"
+   }
+  ],
+  "script": [
+   "HUMBLE. measures near 150 BPM. It feels like 75.",
+   "Same trick in Rockstar and Bad and Boujee, and we pressed all three into an album.",
+   "Software clocks Rockstar at 160 and Bad and Boujee at 127.",
+   "So why do they feel so slow?",
+   "The sheet music and published tempos say half that: 75, 80, 64.",
+   "That's half-time: two honest ways to count one groove.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "150 → 75",
+   "three",
+   "160 / 127",
+   "slow?",
+   "75 · 80 · 64",
+   "half-time",
+   "three"
+  ],
+  "visuals": [
+   "A tempo bar at 150 splits in half to 75",
+   "Three tempo bars appear in a row",
+   "Fast metronome ticks on a digital readout",
+   "Question mark over a slow-pulsing circle",
+   "Each bar halves: 150→75, 160→80, 127→64",
+   "Two counting grids, one fast and one slow, over the same waveform",
+   "Three vinyl outlines pressing into one record"
+  ],
+  "picks": [
+   {
+    "song": "HUMBLE.",
+    "artist": "Kendrick Lamar"
+   },
+   {
+    "song": "Rockstar",
+    "artist": "Post Malone ft. 21 Savage"
+   },
+   {
+    "song": "Bad and Boujee",
+    "artist": "Migos ft. Lil Uzi Vert"
+   }
+  ],
+  "caption": "humble. is 150 bpm and feels like 75.\nbeat software reads it near 150; the sheet music says about 75.\nrockstar: 160 vs 80. bad and boujee: 127 vs 64.\nthat's half-time: same groove, counted two ways.\nsources: musicnotes, dj tempo databases.\nwe pressed all three into an album.\nwhat would your three make?\n#hiphop #trap #halftime #musictheory #offrotation",
+  "n": 8,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "decade or scene snapshot",
+  "label": "SEATTLE · 1991",
+  "hook": "Six weeks in 1991 that flipped rock",
+  "facts": [
+   {
+    "claim": "Pearl Jam released Ten on August 27, 1991.",
+    "number": "Aug 27, 1991",
+    "source_url": "https://www.vice.com/en/article/4-no-skip-grunge-albums-turning-35/",
+    "quote": "They released their debut, Ten, on August 27, 1991."
+   },
+   {
+    "claim": "Nirvana released Nevermind on September 24, 1991.",
+    "number": "Sep 24, 1991",
+    "source_url": "https://www.vice.com/en/article/4-no-skip-grunge-albums-turning-35/",
+    "quote": "Nirvana released Nevermind on September 24, 1991."
+   },
+   {
+    "claim": "Soundgarden released Badmotorfinger on October 8, 1991, a little over a week after Nevermind.",
+    "number": "Oct 8, 1991",
+    "source_url": "https://www.vice.com/en/article/4-no-skip-grunge-albums-turning-35/",
+    "quote": "Badmotorfinger was released on October 8, 1991"
+   },
+   {
+    "claim": "Nevermind reached No. 1 on the Billboard 200 chart dated January 11, 1992, replacing Michael Jackson's Dangerous.",
+    "number": "Jan 11, 1992",
+    "source_url": "https://www.billboard.com/?p=8093902",
+    "quote": "NIRVANA PULLS OFF AN ASTONISHING palace coup"
+   }
+  ],
+  "script": [
+   "Six weeks in 1991 that flipped rock.",
+   "Three Seattle bands, one autumn, and we pressed all three into an album.",
+   "August 27: Pearl Jam's Ten, with \"Alive\".",
+   "September 24: Nirvana's Nevermind, with \"Smells Like Teen Spirit\".",
+   "October 8: Soundgarden's Badmotorfinger, with \"Outshined\".",
+   "By January 1992, Nevermind knocked the King of Pop off No. 1.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "6 weeks",
+   "Seattle",
+   "Aug 27",
+   "Sep 24",
+   "Oct 8",
+   "No. 1",
+   "album"
+  ],
+  "visuals": [
+   "a six-week calendar strip with three days circled",
+   "a Seattle map dot sending out three lines",
+   "the first calendar circle fills: Aug 27",
+   "the second fills: Sep 24",
+   "the third fills: Oct 8",
+   "a chart ladder with one bar climbing past another to No. 1",
+   "three dates snap into a record circle"
+  ],
+  "picks": [
+   {
+    "song": "Alive",
+    "artist": "Pearl Jam"
+   },
+   {
+    "song": "Smells Like Teen Spirit",
+    "artist": "Nirvana"
+   },
+   {
+    "song": "Outshined",
+    "artist": "Soundgarden"
+   }
+  ],
+  "caption": "six weeks in 1991 that flipped rock.\nten (aug 27), nevermind (sep 24), badmotorfinger (oct 8). three seattle albums, one autumn.\nby january 11, 1992, nevermind had knocked michael jackson's dangerous off no. 1.\nsources: vice, billboard.\nwe pressed all three into an album.\nwhat would your three make?\n#grunge #seattle #1991 #90srock",
+  "n": 9,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "Where a sound came from",
+  "label": "BOSSA NOVA · 1958",
+  "hook": "1 minute 59 seconds changed Brazilian music",
+  "facts": [
+   {
+    "claim": "Biographer Ruy Castro calls 'Chega de Saudade' the 1:59 that changed everything, built on João Gilberto's new guitar beat",
+    "number": "1:59",
+    "source_url": "https://www.npr.org/2008/06/02/91087907/the-birth-of-bossa-nova",
+    "quote": "the 1 minute and 59 seconds that changed everything"
+   },
+   {
+    "claim": "Gilberto's 'Chega de Saudade' came out in 1958, and the album of the same name followed in 1959",
+    "number": "1958",
+    "source_url": "https://www.grammy.com/news/joao-gilberto-pioneer-brazilian-bossa-nova-has-died-88",
+    "quote": "GRAMMY.com: two more versions came out in 1958, including Gilberto's own (paraphrase of article)"
+   },
+   {
+    "claim": "Many historians consider 'Desafinado' the first bossa nova song. It started as a joke for the pop singer Ivon Cury",
+    "number": "",
+    "source_url": "https://www.npr.org/2008/06/02/91087907/the-birth-of-bossa-nova",
+    "quote": "NPR: many historians consider 'Desafinado' the first bossa nova song (paraphrase of article)"
+   },
+   {
+    "claim": "'The Girl From Ipanema' won Record of the Year, and Getz/Gilberto won Album of the Year at the 7th Grammy Awards",
+    "number": "7th Grammys",
+    "source_url": "https://www.grammy.com/news/joao-gilberto-pioneer-brazilian-bossa-nova-has-died-88",
+    "quote": "Album Of The Year"
+   }
+  ],
+  "script": [
+   "One minute and 59 seconds changed Brazilian music.",
+   "Three songs tell how, and we pressed all three into an album.",
+   "1958: João Gilberto's 'Chega de Saudade,' a new beat on the guitar.",
+   "So which was the first bossa nova song? Many historians say 'Desafinado,' which started as a joke.",
+   "Then 'The Girl from Ipanema,' with Stan Getz, won Record of the Year.",
+   "And Getz/Gilberto took Album of the Year at the 7th Grammys.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "1:59",
+   "three",
+   "1958",
+   "Desafinado",
+   "Ipanema",
+   "Grammys",
+   "album"
+  ],
+  "visuals": [
+   "A stopwatch counts up to 1:59 and freezes",
+   "Three record slots appear on a Rio coastline outline",
+   "Rhythm grid: the off-beat bossa guitar pattern lights up",
+   "A question mark hovers over two song titles on a timeline",
+   "Map: an arrow arcs from Rio to New York",
+   "Two trophy outlines appear with the labels 'Record' and 'Album'",
+   "The three slots press into one disc"
+  ],
+  "picks": [
+   {
+    "song": "Chega de Saudade",
+    "artist": "João Gilberto"
+   },
+   {
+    "song": "Desafinado",
+    "artist": "João Gilberto"
+   },
+   {
+    "song": "The Girl from Ipanema",
+    "artist": "Stan Getz, João Gilberto & Astrud Gilberto"
+   }
+  ],
+  "caption": "1 minute 59 seconds changed brazilian music.\nthat's ruy castro's line about 'chega de saudade' (1958) and joão gilberto's new guitar beat.\nmany historians call 'desafinado' the first bossa nova song.\ngetz/gilberto won album of the year at the 7th grammys.\nsources: npr, grammy.com.\nwe pressed all three into an album.\nwhat would your three make?\n#bossanova #joaogilberto #musicabrasileira #jazz #musichistory",
+  "n": 10,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "Same song, different era",
+  "label": "POP HISTORY",
+  "hook": "Pop intros shrank 78% in 30 years",
+  "facts": [
+   {
+    "claim": "Intros in top-10 hits went from over 20 seconds in the mid-80s to about 5 seconds",
+    "number": "20 s → 5 s",
+    "source_url": "https://news.osu.edu/has-music-streaming-killed-the-instrumental-intro/",
+    "quote": "Intros that averaged more than 20 seconds in the mid-80s are now only about 5 seconds long, the study found."
+   },
+   {
+    "claim": "That is a 78% drop, across 303 top-10 singles from 1986 to 2015",
+    "number": "78%; 303 songs",
+    "source_url": "https://news.osu.edu/has-music-streaming-killed-the-instrumental-intro/",
+    "quote": "There was a 78 percent drop."
+   },
+   {
+    "claim": "Average tempo rose about 8%",
+    "number": "+8%",
+    "source_url": "https://news.osu.edu/has-music-streaming-killed-the-instrumental-intro/",
+    "quote": "The average tempo increased roughly 8 percent."
+   },
+   {
+    "claim": "Starship's song takes about 22 seconds to reach its first lyrics",
+    "number": "22 s",
+    "source_url": "https://news.osu.edu/has-music-streaming-killed-the-instrumental-intro/",
+    "quote": "Starship takes about 22 seconds to reach the first lyrics of its mid-tempo song"
+   },
+   {
+    "claim": "The intro of Maroon 5's Sugar is half as long, and the hook arrives within 40 seconds",
+    "number": "½ the intro",
+    "source_url": "https://news.osu.edu/has-music-streaming-killed-the-instrumental-intro/",
+    "quote": "The intro is half as long as Starship's"
+   },
+   {
+    "claim": "Gotye's Somebody That I Used to Know is the exception: a 20-second intro, four times the average",
+    "number": "20 s; 4×",
+    "source_url": "https://news.osu.edu/has-music-streaming-killed-the-instrumental-intro/",
+    "quote": "Its 20-second instrumental introduction was four times longer than average."
+   }
+  ],
+  "script": [
+   "Pop intros shrank 78 percent.",
+   "Ohio State studied 303 top-10 hits, 1986 to 2015. We pressed three into an album.",
+   "Starship's Nothing's Gonna Stop Us Now: about 22 seconds before the first word.",
+   "Maroon 5's Sugar: an intro half as long.",
+   "So who broke the rule? Gotye's Somebody That I Used to Know: a 20-second intro, four times the average.",
+   "Over 20 seconds in the mid-80s, about 5 now.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "78%",
+   "303",
+   "22 sec",
+   "half",
+   "4×",
+   "20 → 5",
+   "three"
+  ],
+  "visuals": [
+   "Intro bar shrinking from long to tiny",
+   "Timeline from 1986 to 2015 with 303 dots",
+   "Song timeline with a 22-second shaded intro block",
+   "Same timeline with the shaded block cut in half",
+   "One long intro block sticking out among short ones",
+   "Bar chart: 20+ s (mid-80s) vs 5 s (2015)",
+   "Three vinyl outlines pressing into one record"
+  ],
+  "picks": [
+   {
+    "song": "Nothing's Gonna Stop Us Now",
+    "artist": "Starship"
+   },
+   {
+    "song": "Sugar",
+    "artist": "Maroon 5"
+   },
+   {
+    "song": "Somebody That I Used to Know",
+    "artist": "Gotye ft. Kimbra"
+   }
+  ],
+  "caption": "pop intros shrank 78% in 30 years.\nan ohio state study of 303 top-10 hits (1986–2015) found intros went from 20+ seconds to about 5.\nstarship takes about 22 seconds to sing. maroon 5's 'sugar' takes half that.\ngotye's 20-second intro was four times the average.\nsource: ohio state university.\nwe pressed all three into an album.\nwhat would your three make?\n#pophistory #songwriting #streaming #musicfacts #offrotation",
+  "n": 11,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "decade or scene snapshot",
+  "label": "MEDELLÍN · 2010s",
+  "hook": "Reggaeton's new capital isn't in Puerto Rico",
+  "facts": [
+   {
+    "claim": "BBC News Mundo names J Balvin, Maluma, Karol G and Feid as Medellín-born artists who became global phenomena.",
+    "number": "",
+    "source_url": "https://acento.com.do/bbc-news-mundo/el-perreo-de-medellin-es-muy-unico-como-la-segunda-ciudad-de-colombia-se-convirtio-en-la-meca-moderna-del-regueton-9678724.html",
+    "quote": "Son artistas del género nacidos en esta ciudad que se convirtieron en fenómenos mundiales."
+   },
+   {
+    "claim": "J Balvin's \"Mi Gente\" topped Spotify's Global Top 50 just four weeks after its late-June 2017 release, passing the \"Despacito\" remix.",
+    "number": "4 weeks",
+    "source_url": "https://kqed.org/pop/95722/despacito-wasnt-a-fluke-mi-gente-proves-pop-fans-no-longer-care-about-language-barriers",
+    "quote": "just four weeks after its release in late June"
+   },
+   {
+    "claim": "Karol G's Mañana Será Bonito was the first all-Spanish album by a female artist to reach No. 1 on the Billboard 200, with 94,000 units. It includes the 2022 single \"Provenza\".",
+    "number": "94,000",
+    "source_url": "https://www.udiscovermusic.com/news/karol-g-makes-history-first-billboard-200-no-1-album",
+    "quote": "the first No.1 on the Billboard 200 for an all-Spanish-language album by a female artist"
+   },
+   {
+    "claim": "\"Perro Negro\" by Bad Bunny and Medellín's Feid is named after a Medellín club and won awards in 2024.",
+    "number": "2024",
+    "source_url": "https://acento.com.do/bbc-news-mundo/el-perreo-de-medellin-es-muy-unico-como-la-segunda-ciudad-de-colombia-se-convirtio-en-la-meca-moderna-del-regueton-9678724.html",
+    "quote": "La canción Perro Negro, de Bad Bunny y el artista medellinense Feid, ganó premios en 2024."
+   }
+  ],
+  "script": [
+   "Reggaeton's new capital isn't in Puerto Rico.",
+   "It's Medellín, Colombia, and we pressed three of its songs into an album.",
+   "2017: J Balvin's \"Mi Gente\" topped Spotify's global chart in four weeks.",
+   "Karol G, with hits like \"Provenza\", got the first all-Spanish No. 1 album by a woman on the Billboard 200.",
+   "Then even Bad Bunny named a song after a Medellín club: \"Perro Negro\", with Feid.",
+   "One city, three global moments.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "Medellín",
+   "three",
+   "4 weeks",
+   "first",
+   "Perro Negro",
+   "one city",
+   "album"
+  ],
+  "visuals": [
+   "a map arrow sliding from San Juan to Medellín",
+   "a Medellín pin with three lines radiating out",
+   "a chart bar climbing to the top in four weekly steps",
+   "a Billboard 200 ladder with a single '1' bar marked 2023",
+   "a line from San Juan looping into a Medellín club pin",
+   "three pins pulsing on one city dot",
+   "three pins snap into a record circle"
+  ],
+  "picks": [
+   {
+    "song": "Mi Gente",
+    "artist": "J Balvin & Willy William"
+   },
+   {
+    "song": "Provenza",
+    "artist": "Karol G"
+   },
+   {
+    "song": "Perro Negro",
+    "artist": "Bad Bunny & Feid"
+   }
+  ],
+  "caption": "reggaeton's new capital isn't in puerto rico.\nj balvin, maluma, karol g and feid were all born in medellín.\n\"mi gente\" topped spotify's global chart four weeks after release.\nkarol g got the first all-spanish no. 1 album by a woman on the billboard 200, and bad bunny named \"perro negro\" after a medellín club.\nsources: bbc mundo, kqed, udiscover.\nwe pressed all three into an album.\nwhat would your three make?\n#medellin #reggaeton #karolg #jbalvin #feid",
+  "n": 12,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "Same song, different era",
+  "label": "LA BAMBA · 1939–1987",
+  "hook": "#22 in 1959. #1 in 1987.",
+  "facts": [
+   {
+    "claim": "Ritchie Valens' 'La Bamba' peaked at #22.",
+    "number": "#22 (February 1959)",
+    "source_url": "https://stereogum.com/2118752/the-number-ones-los-lobos-la-bamba/columns/the-number-ones",
+    "quote": "In February of 1959, \"La Bamba\" reached its peak at #22."
+   },
+   {
+    "claim": "The Library of Congress also gives the #22 peak and says Los Lobos' version reached #1 on Billboard.",
+    "number": "No. 22 → top of Billboard",
+    "source_url": "https://blogs.loc.gov/now-see-hear/2024/10/la-bamba/",
+    "quote": "Los Lobos' version reached the top of the \"Billboard\" charts, … which topped out at No. 22 nearly 20 years earlier."
+   },
+   {
+    "claim": "Los Lobos' version stayed at #1 for three weeks, starting with the Aug 29, 1987 chart, and kept close to Valens' arrangement.",
+    "number": "3 weeks at #1 (1987)",
+    "source_url": "https://stereogum.com/2118752/the-number-ones-los-lobos-la-bamba/columns/the-number-ones",
+    "quote": "Los Lobos' version of \"La Bamba\" is faithful to Valens' original, but it's warmer and less urgent."
+   },
+   {
+    "claim": "Valens never learned Spanish. He was 17.",
+    "number": "17 years",
+    "source_url": "https://blogs.loc.gov/now-see-hear/2024/10/la-bamba/",
+    "quote": "had never learned Spanish in his 17 years as a native-born Californian."
+   },
+   {
+    "claim": "The song comes from son jarocho, the 'sound of Veracruz'.",
+    "number": "Veracruz origin",
+    "source_url": "https://blogs.loc.gov/now-see-hear/2024/10/la-bamba/",
+    "quote": "creating a music that came to be known as son jarocho (\"sound of Veracruz\")."
+   },
+   {
+    "claim": "The earliest recording available today is by Álvaro Hernández Ortiz ('El Jarocho'), from 1939. Some discographies, such as originals.be, give 1938.",
+    "number": "1939",
+    "source_url": "https://collections.libraries.indiana.edu/cookmusiclibrary/exhibits/show/sounds_of_mexico/la_bamba",
+    "quote": "was recorded by Alvaro Hernández Ortiz, credited as El Jarocho, in 1939."
+   }
+  ],
+  "script": [
+   "Same song: number 22 in 1959, number 1 in 1987.",
+   "Three takes on La Bamba, and we pressed all three into an album.",
+   "It starts as son jarocho, the sound of Veracruz; one of its oldest recordings is from 1939.",
+   "Then a 17-year-old Ritchie Valens rocks it up, even though he never learned Spanish.",
+   "So why did the same song climb 21 spots?",
+   "A 1987 biopic: Los Lobos stay faithful to Valens and hold number 1 for three weeks.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "#22 → #1",
+   "3 versions",
+   "1939",
+   "17",
+   "+21 spots",
+   "3 weeks",
+   "album"
+  ],
+  "visuals": [
+   "Two chart bars side by side: a short bar labeled 1959 #22 and a full-height bar labeled 1987 #1",
+   "Three vinyl discs slide onto a horizontal timeline at 1939, 1958 and 1987",
+   "Map of Mexico zooms into Veracruz with a pin labeled 'son jarocho'",
+   "A route line draws from Veracruz to Los Angeles, then a counter ticks to '17'",
+   "A ladder of chart positions with a marker climbing from 22 to 1 and '?' flashing",
+   "A #1 badge stamped three times in a row, labeled 'week 1, 2, 3'",
+   "Three discs stack into one album sleeve outline"
+  ],
+  "picks": [
+   {
+    "song": "La Bamba",
+    "artist": "Álvaro Hernández Ortiz (El Jarocho)"
+   },
+   {
+    "song": "La Bamba",
+    "artist": "Ritchie Valens"
+   },
+   {
+    "song": "La Bamba",
+    "artist": "Los Lobos"
+   }
+  ],
+  "caption": "same song: #22 in 1959, #1 in 1987.\nla bamba comes from son jarocho, the \"sound of veracruz.\" one of its oldest recordings dates to 1939.\nritchie valens took it to #22 at 17, without ever having learned spanish.\nlos lobos' 1987 version stayed close to his arrangement and held #1 for three weeks.\nsources: library of congress, stereogum, indiana university.\nwe pressed all three into an album.\nwhat would your three make?\n#labamba #ritchievalens #loslobos #sonjarocho #musicexplained",
+  "n": 13,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "Where a sound came from",
+  "label": "BACHATA · 1962",
+  "hook": "Bachata's first record: 1962. Then decades of shame.",
+  "facts": [
+   {
+    "claim": "Bachata's first recording came in 1962",
+    "number": "1962",
+    "source_url": "https://www.wlrn.org/arts-culture/2025-07-30/how-bachata-rose-from-dominican-republics-brothels-and-shantytowns-to-become-a-global-sensation",
+    "quote": "The genre's first recording came in 1962."
+   },
+   {
+    "claim": "In 1962, 21-year-old José Manuel Calderón sang 'Qué será de mí (Condena)', the first page of bachata history",
+    "number": "21",
+    "source_url": "https://www.elcaribe.com.do/sin-categoria/ldquo-bachata-nacio-conmigordquo/",
+    "quote": "la primera página en la historia de la bachata"
+   },
+   {
+    "claim": "Bachata was shunned in the Dominican Republic in the 1960s and '70s",
+    "number": "'60s–'70s",
+    "source_url": "https://www.knau.org/2012-05-17/latin-roots-bachata-latin-musics-underdog-grows-up",
+    "quote": "shunned in the Dominican Republic in the '60s and '70s"
+   },
+   {
+    "claim": "Aventura's 'Obsesión' (2002) topped charts in France, Germany, Italy, the U.S. and elsewhere",
+    "number": "2002",
+    "source_url": "https://www.wlrn.org/arts-culture/2025-07-30/how-bachata-rose-from-dominican-republics-brothels-and-shantytowns-to-become-a-global-sensation",
+    "quote": "topped music charts in France, Germany, Italy, the U.S."
+   },
+   {
+    "claim": "Romeo Santos' 'Propuesta Indecente' set a Guinness record for consecutive weeks on Billboard's Hot Latin Songs chart: 125",
+    "number": "125 weeks",
+    "source_url": "https://guinnessworldrecords.com/news/2019/10/latin-artist-romeo-santos-honored-with-four-billboard-records-595657",
+    "quote": "most consecutive weeks on a Billboard's Hot Latin Songs chart"
+   },
+   {
+    "claim": "In 2019, bachata was added to UNESCO's Intangible Cultural Heritage list",
+    "number": "2019",
+    "source_url": "https://www.wlrn.org/arts-culture/2025-07-30/how-bachata-rose-from-dominican-republics-brothels-and-shantytowns-to-become-a-global-sensation",
+    "quote": "In 2019 bachata was added to UNESCO's Representative List of the Intangible Cultural Heritage of Humanity."
+   }
+  ],
+  "script": [
+   "Bachata's first record came out in 1962.",
+   "From Santo Domingo to the world in three songs, and we pressed all three into an album.",
+   "José Manuel Calderón, age 21, sings 'Qué Será de Mí.'",
+   "So why did it take so long to break out? At home, it was shunned through the '60s and '70s.",
+   "2002: Aventura's 'Obsesión' tops charts in France, Germany and Italy.",
+   "Romeo Santos' 'Propuesta Indecente' spends 125 straight weeks on Hot Latin Songs.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "1962",
+   "three",
+   "21",
+   "shunned",
+   "2002",
+   "125",
+   "album"
+  ],
+  "visuals": [
+   "Timeline: a pin drops at 1962 over a Dominican Republic outline",
+   "Three record slots appear",
+   "A simple guitar-requinto rhythm grid starts pulsing",
+   "A 'shunned' bar stretches across the '60s and '70s on the timeline",
+   "Map: arrows shoot from the Bronx to France, Germany and Italy",
+   "A week counter climbs to 125",
+   "The three slots press into one disc"
+  ],
+  "picks": [
+   {
+    "song": "Qué Será de Mí (Condena)",
+    "artist": "José Manuel Calderón"
+   },
+   {
+    "song": "Obsesión",
+    "artist": "Aventura"
+   },
+   {
+    "song": "Propuesta Indecente",
+    "artist": "Romeo Santos"
+   }
+  ],
+  "caption": "bachata's first record came out in 1962.\njosé manuel calderón was 21.\nat home it was shunned through the '60s and '70s. then 'obsesión' (2002) topped charts across europe.\nunesco listed bachata as cultural heritage in 2019.\nsources: wlrn/the conversation, el caribe, guinness.\nwe pressed all three into an album.\nwhat would your three make?\n#bachata #aventura #romeosantos #musicadominicana #musichistory",
+  "n": 14,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "Tempo and feel",
+  "label": "DRUM NERDS",
+  "hook": "One drum groove, built from three others",
+  "facts": [
+   {
+    "claim": "The Rosanna groove is a half-time shuffle that combines the Purdie shuffle, Bonham's Fool in the Rain shuffle and the Bo Diddley beat",
+    "number": "3 grooves",
+    "source_url": "https://en.wikipedia.org/wiki/Rosanna_(song)",
+    "quote": "derived from the combination of the Purdie shuffle, John Bonham's shuffle on \"Fool in the Rain\" and the Bo Diddley beat"
+   },
+   {
+    "claim": "Rosanna spent five weeks at No. 2 on the Hot 100",
+    "number": "5 weeks at No. 2",
+    "source_url": "https://en.wikipedia.org/wiki/Rosanna_(song)",
+    "quote": "reached number two on the Billboard Hot 100 for five consecutive weeks"
+   },
+   {
+    "claim": "Rosanna won Record of the Year",
+    "number": "1983 Grammys",
+    "source_url": "https://en.wikipedia.org/wiki/Rosanna_(song)",
+    "quote": "won the Grammy Award for Record of the Year at the 1983 ceremony"
+   },
+   {
+    "claim": "The Bo Diddley beat comes from his 1955 debut single and is a variation of the Afro-Cuban 3-2 clave",
+    "number": "1955; 3-2 clave",
+    "source_url": "https://en.wikipedia.org/wiki/Bo_Diddley_beat",
+    "quote": "The Bo Diddley beat is a variation of the 3–2 clave"
+   },
+   {
+    "claim": "Sheet music for Fool in the Rain notes a half-time shuffle and a samba-style feel",
+    "number": "half-time",
+    "source_url": "https://www.onlinedrummer.com/sheet-music/fool-in-the-rain/",
+    "quote": "half-time shuffle ... samba-style feel"
+   }
+  ],
+  "script": [
+   "One famous drum groove is really three grooves stacked.",
+   "Toto's Rosanna, and the two songs inside it. We pressed all three into an album.",
+   "It's a half-time shuffle: the backbeat feels slow, the triplets keep rolling.",
+   "So where did that groove actually come from?",
+   "Bonham's shuffle on Fool in the Rain, plus the Bo Diddley beat, itself a 3-2 Cuban clave.",
+   "Result: five weeks at No. 2 and Record of the Year.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "three",
+   "Rosanna",
+   "half-time",
+   "where?",
+   "3-2 clave",
+   "5 weeks",
+   "three"
+  ],
+  "visuals": [
+   "Three drum-pattern grids sliding together into one",
+   "Rosanna grid with two ghost layers labeled",
+   "Slow backbeat pulse under rolling triplet dots",
+   "Question mark over a drum-grid outline",
+   "3-2 clave pattern lighting up, with an arrow from Cuba to the US",
+   "Chart ladder stuck at No. 2 for five ticks, then a trophy icon",
+   "Three vinyl outlines pressing into one record"
+  ],
+  "picks": [
+   {
+    "song": "Rosanna",
+    "artist": "Toto"
+   },
+   {
+    "song": "Fool in the Rain",
+    "artist": "Led Zeppelin"
+   },
+   {
+    "song": "Bo Diddley",
+    "artist": "Bo Diddley"
+   }
+  ],
+  "caption": "one drum groove, built from three others.\ntoto's rosanna mixes the purdie shuffle, bonham's 'fool in the rain' shuffle and the bo diddley beat.\nthat last one is a 3-2 clave, straight from cuban music.\nfive weeks at no. 2 and record of the year at the 1983 grammys.\nsource: wikipedia's rosanna and bo diddley beat entries.\nwe pressed all three into an album.\nwhat would your three make?\n#drums #shuffle #clave #musictheory #offrotation",
+  "n": 15,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "samples and connections",
+  "label": "NEO-SOUL · 2000",
+  "hook": "Three 2000 classics, one Hendrix-built studio",
+  "facts": [
+   {
+    "claim": "The Soulquarians took over all of Electric Lady Studios, the New York studio Jimi Hendrix built.",
+    "number": "",
+    "source_url": "https://www.dazeddigital.com/music/article/47679/1/best-soulquarians-albums-list-dangelo",
+    "quote": "took over the entirety of Electric Lady Studios, a studio Jimi Hendix built in New York City"
+   },
+   {
+    "claim": "Release dates in 2000: Voodoo on January 25, Like Water for Chocolate on March 28, Mama's Gun on November 21.",
+    "number": "Jan 25 / Mar 28 / Nov 21, 2000",
+    "source_url": "https://www.dazeddigital.com/music/article/47679/1/best-soulquarians-albums-list-dangelo",
+    "quote": "began a run of stellar albums in 1999 that continued into 2000"
+   },
+   {
+    "claim": "D'Angelo was recording at Electric Lady at the same time as Badu and Common. Tidal calls the three albums a holy trinity. Voodoo topped the Billboard 200.",
+    "number": "No. 1",
+    "source_url": "https://tidal.com/magazine/article/dangelos-voodoo/1-70609",
+    "quote": "a holy trinity of the Soulquarian sound"
+   },
+   {
+    "claim": "Questlove played most of the live drums across these albums.",
+    "number": "",
+    "source_url": "https://www.dazeddigital.com/music/article/47679/1/best-soulquarians-albums-list-dangelo",
+    "quote": "responsible for most of the live drums you hear across these albums"
+   },
+   {
+    "claim": "\"Bag Lady\" was the lead single from Mama's Gun and was nominated at the 2001 Grammys. Badu began the album at Electric Lady in 1998.",
+    "number": "1998 / 2001",
+    "source_url": "https://www.grammy.com/news/erykah-badu-mamas-gun-20-year-anniversary",
+    "quote": "Electric Lady Studios"
+   }
+  ],
+  "script": [
+   "Three 2000 classics, one Hendrix-built studio.",
+   "Three neo-soul records from one building, and we pressed all three into an album.",
+   "January 2000: D'Angelo's Voodoo, with \"Untitled (How Does It Feel)\". It topped the Billboard 200.",
+   "March: Common's \"The Light\". November: Erykah Badu's \"Bag Lady\".",
+   "The secret: Questlove played most of the live drums across all of them.",
+   "They weren't just booking sessions. Their collective took over the whole studio.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "2000",
+   "one studio",
+   "No. 1",
+   "March",
+   "Questlove",
+   "whole studio",
+   "album"
+  ],
+  "visuals": [
+   "a building outline with three doors lights up",
+   "three lines run from the building into one record",
+   "a 2000 timeline with a pin at Jan 25 and a No. 1 marker",
+   "pins drop at Mar 28 and Nov 21 on the same timeline",
+   "a drum-kit icon connects to all three pins",
+   "the building fills room by room in one color",
+   "three pins snap into a record circle"
+  ],
+  "picks": [
+   {
+    "song": "Untitled (How Does It Feel)",
+    "artist": "D'Angelo"
+   },
+   {
+    "song": "The Light",
+    "artist": "Common"
+   },
+   {
+    "song": "Bag Lady",
+    "artist": "Erykah Badu"
+   }
+  ],
+  "caption": "three 2000 classics, one hendrix-built studio.\nvoodoo (jan), like water for chocolate (mar), mama's gun (nov). all made at electric lady in new york.\nthe soulquarians took over the whole building, and questlove played most of the live drums.\nsources: dazed, tidal, grammy.com.\nwe pressed all three into an album.\nwhat would your three make?\n#neosoul #soulquarians #dangelo #erykahbadu #questlove",
+  "n": 16,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "Where a sound came from",
+  "label": "THE AMEN BREAK · 6 SEC",
+  "hook": "6 seconds of drums, at least 2,000 songs",
+  "facts": [
+   {
+    "claim": "The Amen break is about six seconds long",
+    "number": "6 seconds",
+    "source_url": "https://www.npr.org/transcripts/542087087",
+    "quote": "these six seconds"
+   },
+   {
+    "claim": "It has been used in at least 2,000 songs",
+    "number": "2,000",
+    "source_url": "https://www.npr.org/transcripts/542087087",
+    "quote": "at least 2,000 songs"
+   },
+   {
+    "claim": "Drummer Gregory Coleman played it on the B-side of a single by The Winstons, a Washington, D.C. band formed in 1967",
+    "number": "1967",
+    "source_url": "https://www.npr.org/transcripts/542087087",
+    "quote": "funk and soul band formed in 1967 in Washington, D.C."
+   },
+   {
+    "claim": "N.W.A's 'Straight Outta Compton' (1988) was one of the first hip-hop tracks to sample it, and David Bowie's 'Little Wonder' (1997) speeds it up",
+    "number": "1988",
+    "source_url": "https://www.npr.org/transcripts/542087087",
+    "quote": "NPR: 'Straight Outta Compton' was among the first hip-hop tracks to sample it (paraphrase of article)"
+   },
+   {
+    "claim": "The band never earned money from the break",
+    "number": "$0",
+    "source_url": "https://www.npr.org/transcripts/542087087",
+    "quote": "never saw a cent from it"
+   }
+  ],
+  "script": [
+   "Six seconds of drums. At least 2,000 songs.",
+   "Here's its trip in three tracks, and we pressed all three into an album.",
+   "The Winstons' 'Amen, Brother,' a B-side. Gregory Coleman plays the break.",
+   "So how did a B-side end up everywhere?",
+   "1988: N.W.A's 'Straight Outta Compton' was one of the first hip-hop tracks to sample it.",
+   "1997: David Bowie's 'Little Wonder' speeds it up. The band never saw a cent.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "2,000",
+   "three",
+   "B-side",
+   "everywhere?",
+   "1988",
+   "1997",
+   "album"
+  ],
+  "visuals": [
+   "A 6-second waveform, then a counter ticking up to 2,000",
+   "Three record slots appear",
+   "Rhythm grid: the four-bar Amen pattern, with kick, snare and ride in rows",
+   "The grid copies itself outward into dozens of tiny grids",
+   "Timeline: a 1988 pin; the grid is sliced into chunks",
+   "A 1997 pin; the grid speeds up, then a coin counter reads $0",
+   "The three slots press into one disc"
+  ],
+  "picks": [
+   {
+    "song": "Amen, Brother",
+    "artist": "The Winstons"
+   },
+   {
+    "song": "Straight Outta Compton",
+    "artist": "N.W.A"
+   },
+   {
+    "song": "Little Wonder",
+    "artist": "David Bowie"
+   }
+  ],
+  "caption": "6 seconds of drums, at least 2,000 songs.\ngregory coleman played it on a b-side by the winstons, a d.c. band formed in 1967.\nn.w.a sampled it in 1988, and bowie sped it up in 1997.\nthe band never saw a cent.\nsource: npr.\nwe pressed all three into an album.\nwhat would your three make?\n#amenbreak #sampling #hiphophistory #drumandbass #musichistory",
+  "n": 17,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "The numbers behind a hit",
+  "label": "BAD BUNNY FANS",
+  "hook": "The first all-Spanish album to win the year",
+  "facts": [
+   {
+    "claim": "Un Verano Sin Ti topped the 2022 Billboard 200 year-end chart, the first all-Spanish album to do so",
+    "number": "No. 1 of 2022",
+    "source_url": "https://nbcsandiego.com/entertainment/entertainment-news/bad-bunny-makes-billboards-top-artist-of-the-year",
+    "quote": "It marked the first all-Spanish album to top the chart as the best-performing album of the year."
+   },
+   {
+    "claim": "It spent 13 nonconsecutive weeks at No. 1 on the Billboard 200",
+    "number": "13 weeks",
+    "source_url": "https://en.wikipedia.org/wiki/Un_Verano_Sin_Ti",
+    "quote": "It spent 13 nonconsecutive weeks atop the chart."
+   },
+   {
+    "claim": "The album has 23 tracks, including Me Porto Bonito (track 3), Tití Me Preguntó (track 4) and Ojitos Lindos with Bomba Estéreo (track 14)",
+    "number": "23 tracks",
+    "source_url": "https://en.wikipedia.org/wiki/Un_Verano_Sin_Ti",
+    "quote": "Comprising twenty-three tracks"
+   },
+   {
+    "claim": "In July 2023 it became the most-streamed album in Spotify history, passing Ed Sheeran's Divide",
+    "number": "#1 on Spotify (2023)",
+    "source_url": "https://www.digitalmusicnews.com/2023/07/10/bad-bunny-un-verano-sin-ti-becomes-most-streamed-album-in-spotify-history/",
+    "quote": "has beaten out the previously most-streamed album, Ed Sheeran's Divide"
+   }
+  ],
+  "script": [
+   "America's biggest album of 2022 was entirely in Spanish.",
+   "Bad Bunny's Un Verano Sin Ti: 23 tracks, and we pressed three of them into an album.",
+   "13 weeks at No. 1 on the Billboard 200.",
+   "Then No. 1 on the year-end chart, a first for an all-Spanish album.",
+   "So how big was it on streaming? By 2023, Spotify's most-streamed album ever.",
+   "Tití Me Preguntó, Me Porto Bonito, Ojitos Lindos: one summer record.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "2022",
+   "23 tracks",
+   "13 weeks",
+   "first",
+   "most-streamed",
+   "one summer",
+   "three"
+  ],
+  "visuals": [
+   "Year-end chart podium with an 'ES' tag at No. 1",
+   "Tracklist grid of 23 squares, three lighting up",
+   "Week counter ticking to 13",
+   "Year-end chart ladder with a 'first' badge",
+   "Stream counter overtaking a second bar",
+   "Three highlighted squares lifting out of the grid",
+   "Three vinyl outlines pressing into one record"
+  ],
+  "picks": [
+   {
+    "song": "Tití Me Preguntó",
+    "artist": "Bad Bunny"
+   },
+   {
+    "song": "Me Porto Bonito",
+    "artist": "Bad Bunny & Chencho Corleone"
+   },
+   {
+    "song": "Ojitos Lindos",
+    "artist": "Bad Bunny & Bomba Estéreo"
+   }
+  ],
+  "caption": "the first all-spanish album to win the year.\nun verano sin ti spent 13 weeks at no. 1 and topped billboard's 2022 year-end chart, a first for an all-spanish album.\nby 2023 it was spotify's most-streamed album ever.\nsources: billboard via nbc, wikipedia, digital music news.\nwe pressed all three into an album.\nwhat would your three make?\n#badbunny #unveranosinti #reggaeton #latinmusic #offrotation",
+  "n": 18,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "decade or scene snapshot",
+  "label": "BUENOS AIRES · 1982",
+  "hook": "1982: Argentina pulled English songs from radio",
+  "facts": [
+   {
+    "claim": "Under a decree from dictator Leopoldo Galtieri during the Malvinas/Falklands war, English-language music could not be played on Argentine radio.",
+    "number": "1982",
+    "source_url": "https://www.lanacion.com.ar/espectaculos/musica/a-40-anos-de-la-guerra-de-malvinas-de-la-oportunidad-para-bajar-un-mensaje-de-paz-a-la-medida-que-nid01042022/",
+    "quote": "la música en inglés no podía sonar en las radios argentinas"
+   },
+   {
+    "claim": "The Festival de la Solidaridad Latinoamericana drew almost 70,000 young people to Obras on May 16, 1982. Raúl Porchetto's \"Algo de paz\" was its anthem, and León Gieco's \"Sólo le pido a Dios\" was sung by conscripts in the Malvinas.",
+    "number": "~70,000 / May 16, 1982",
+    "source_url": "https://www.lanacion.com.ar/espectaculos/musica/a-40-anos-de-la-guerra-de-malvinas-de-la-oportunidad-para-bajar-un-mensaje-de-paz-a-la-medida-que-nid01042022/",
+    "quote": "convocó el 16 de mayo en la cancha de rugby de Obras a casi 70.000 jóvenes"
+   },
+   {
+    "claim": "About 90% of radio airtime went to Spanish-language songs. Miguel Cantilo's \"La gente del futuro\" was the festival's most-sung song.",
+    "number": "90%",
+    "source_url": "https://rollingstone.com.br/?p=28222",
+    "quote": "Porque quando as rádios não souberam o que tocar, elas descobriram que existiam discos nacionais."
+   },
+   {
+    "claim": "Historians disagree: Alfredo Rosso calls it exaggerated to say the ban made rock nacional mainstream, and promoter Daniel Grinbank says the scene owed nothing to the war.",
+    "number": "",
+    "source_url": "https://www.lanacion.com.ar/espectaculos/musica/a-40-anos-de-la-guerra-de-malvinas-de-la-oportunidad-para-bajar-un-mensaje-de-paz-a-la-medida-que-nid01042022/",
+    "quote": "Ese momento del rock argentino de los 80 no le debe nada a la guerra."
+   }
+  ],
+  "script": [
+   "1982: Argentina pulled English songs from radio.",
+   "It was wartime, and we pressed three of that year's anthems into an album.",
+   "With the Malvinas war on, a decree took English-language songs off the air.",
+   "On May 16, almost 70,000 kids packed Obras for a festival. Its anthem was Porchetto's \"Algo de paz\".",
+   "León Gieco sang \"Sólo le pido a Dios\". Cantilo's \"La gente del futuro\" got the biggest singalong.",
+   "Did the ban launch rock nacional? Even insiders still argue about it.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "1982",
+   "three",
+   "decree",
+   "70,000",
+   "Sólo le pido a Dios",
+   "argue",
+   "album"
+  ],
+  "visuals": [
+   "a radio dial where an 'EN' band fades out",
+   "a 1982 timeline with three empty slots",
+   "a radio-wave graphic switching from 'EN' to 'ES' at 90%",
+   "a crowd counter rising to 70,000 at a May 16 pin",
+   "two more waveforms join the timeline slots",
+   "a split arrow labeled 'ban' and 'scene' with a question mark",
+   "three slots snap into a record circle"
+  ],
+  "picks": [
+   {
+    "song": "Algo de paz",
+    "artist": "Raúl Porchetto"
+   },
+   {
+    "song": "Sólo le pido a Dios",
+    "artist": "León Gieco"
+   },
+   {
+    "song": "La gente del futuro",
+    "artist": "Miguel Cantilo & Jorge Durietz"
+   }
+  ],
+  "caption": "1982: argentina pulled english songs from radio.\nduring the malvinas war, a galtieri decree took english-language music off the air.\non may 16, almost 70,000 kids went to obras for a festival. \"algo de paz\" was its anthem.\ndid the ban launch rock nacional? insiders still argue.\nsources: la nación, rolling stone brasil.\nwe pressed all three into an album.\nwhat would your three make?\n#rocknacional #rockargentino #leongieco #malvinas #buenosaires",
+  "n": 19,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "Samples and connections",
+  "label": "MAMBO · 1949–2001",
+  "hook": "One 1949 mambo, two UK number ones.",
+  "facts": [
+   {
+    "claim": "Lou Bega's hit sampled Pérez Prado's 1949 instrumental.",
+    "number": "1949",
+    "source_url": "https://americansongwriter.com/where-are-they-now-mambo-no-5-singer-lou-bega/",
+    "quote": "sampled Cuban artist Dámaso Pérez Prado's 1949 instrumental mambo of the same name."
+   },
+   {
+    "claim": "Lou Bega's version peaked at #3 on the US Hot 100.",
+    "number": "#3 US",
+    "source_url": "https://americansongwriter.com/where-are-they-now-mambo-no-5-singer-lou-bega/",
+    "quote": "peaking at No. 3 on the U.S. Hot 100."
+   },
+   {
+    "claim": "Lou Bega reached #1 on the UK Official Singles Chart and stayed there two weeks. It first charted on 04/09/1999.",
+    "number": "2 weeks at #1 (UK, 1999)",
+    "source_url": "https://www.officialcharts.com/songs/lou-bega-mambo-no-5-a-little-bit-of/",
+    "quote": "Peak position: 1 … Weeks at No. 1: 2"
+   },
+   {
+    "claim": "Bob the Builder's 'Mambo No 5' reached #1 in the UK in September 2001.",
+    "number": "#1 UK (15 Sep 2001)",
+    "source_url": "https://www.officialcharts.com/artist/10019/Bob-the-Builder",
+    "quote": "Mambo No 5 … 15 Sep 2001 … Peak 1"
+   },
+   {
+    "claim": "Prado was a Cuban bandleader who developed the mambo after moving to Mexico. His 1949 recordings won him a US RCA Victor contract.",
+    "number": "1949",
+    "source_url": "https://adpprod1.library.ucsb.edu/names/116415",
+    "quote": "The success of his 1949 recordings landed him a contract with RCA Victor in the US."
+   }
+  ],
+  "script": [
+   "One 1949 mambo, two UK number ones.",
+   "Three Mambo No. 5s, and we pressed all three into an album.",
+   "1949: Cuban bandleader Pérez Prado records an instrumental mambo.",
+   "1999: Lou Bega samples it. Number 3 in the US, two weeks at number 1 in the UK.",
+   "But who took it back to the top two years later?",
+   "Bob the Builder. His 2001 cover hit number 1 in Britain.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "1949",
+   "3 versions",
+   "Pérez Prado",
+   "#3 / #1",
+   "who?",
+   "2001",
+   "album"
+  ],
+  "visuals": [
+   "A timeline with one root node at 1949 that branches into two '#1 UK' flags",
+   "Three discs drop onto a sampling family tree",
+   "A map arrow runs from Cuba to Mexico, then a horn-riff waveform pulses",
+   "The waveform gets copied into a new track lane, and bars rise to US #3 and UK #1",
+   "An empty #1 slot blinks with a question mark",
+   "Timeline jumps to 2001 and a third bar fills to #1 UK",
+   "Three discs stack into one album sleeve outline"
+  ],
+  "picks": [
+   {
+    "song": "Mambo No. 5",
+    "artist": "Pérez Prado"
+   },
+   {
+    "song": "Mambo No. 5 (A Little Bit of...)",
+    "artist": "Lou Bega"
+   },
+   {
+    "song": "Mambo No. 5",
+    "artist": "Bob the Builder"
+   }
+  ],
+  "caption": "one 1949 mambo, two uk number ones.\ncuban bandleader pérez prado recorded \"mambo no. 5\" as an instrumental in 1949.\nlou bega sampled it in 1999: #3 in the us, two weeks at #1 in the uk.\nbob the builder's 2001 cover went to #1 in britain as well.\nsources: american songwriter, official charts, ucsb discography.\nwe pressed all three into an album.\nwhat would your three make?\n#mambo #perezprado #loubega #samples #musicexplained",
+  "n": 20,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "Where a sound came from",
+  "label": "BREAKBEAT · 1960 → 1981",
+  "hook": "Hip-hop's anthem began as a 1960 guitar tune",
+  "facts": [
+   {
+    "claim": "The Shadows' 'Apache' (1960) went to No. 1 in England and stayed there for five weeks",
+    "number": "5 weeks",
+    "source_url": "https://www.complex.com/music/a/michaelangelo-matos/a-history-of-the-apache-breakbeat",
+    "quote": "went to No. 1 in England and stayed there five weeks"
+   },
+   {
+    "claim": "The Incredible Bongo Band's 'Apache' comes from their 1973 album Bongo Rock, and Kool Herc played two copies on two turntables in the South Bronx",
+    "number": "1973",
+    "source_url": "https://www.complex.com/music/a/michaelangelo-matos/a-history-of-the-apache-breakbeat",
+    "quote": "Everybody's still using Bongo Rock's 'Apache.'"
+   },
+   {
+    "claim": "The song went from a surf-guitar standard to hip-hop's national anthem",
+    "number": "",
+    "source_url": "https://www.complex.com/music/a/michaelangelo-matos/a-history-of-the-apache-breakbeat",
+    "quote": "from surf standard to hip-hop's national anthem"
+   },
+   {
+    "claim": "Sugar Hill Gang's 'Apache (Jump on It)' (1981) was the first rap record to lock in the Bongo Band's version",
+    "number": "1981",
+    "source_url": "https://www.complex.com/music/a/michaelangelo-matos/a-history-of-the-apache-breakbeat",
+    "quote": "the first rap record to cement the Bongo Band's version as a crucial precursor"
+   }
+  ],
+  "script": [
+   "Hip-hop's national anthem began as a 1960 British guitar tune.",
+   "Three versions tell the story, and we pressed all three into an album.",
+   "The Shadows' 'Apache': No. 1 in England for five weeks.",
+   "So how did a surf guitar tune end up in the Bronx?",
+   "1973: the Incredible Bongo Band covered it, and Kool Herc ran two copies on two turntables.",
+   "1981: Sugar Hill Gang's 'Apache (Jump on It)' put it on a rap record.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "1960",
+   "three",
+   "5 weeks",
+   "Bronx?",
+   "1973",
+   "1981",
+   "album"
+  ],
+  "visuals": [
+   "Map: a pin on England with the label 1960",
+   "Three record slots appear",
+   "A bar fills up five 'week' boxes on a chart",
+   "An arrow arcs across the Atlantic to the South Bronx, with a question mark",
+   "Two turntable circles spin, and a loop arrow passes the break between them",
+   "Timeline: a 1981 pin; a speech-bubble 'rap' icon appears",
+   "The three slots press into one disc"
+  ],
+  "picks": [
+   {
+    "song": "Apache",
+    "artist": "The Shadows"
+   },
+   {
+    "song": "Apache",
+    "artist": "Incredible Bongo Band"
+   },
+   {
+    "song": "Apache (Jump on It)",
+    "artist": "The Sugarhill Gang"
+   }
+  ],
+  "caption": "hip-hop's anthem began as a 1960 guitar tune.\nthe shadows' 'apache' sat at no. 1 in england for five weeks.\nthe incredible bongo band covered it in 1973, and kool herc looped it on two turntables.\nsugar hill gang rapped over it in 1981.\nsource: complex (michaelangelo matos).\nwe pressed all three into an album.\nwhat would your three make?\n#hiphophistory #breakbeat #koolherc #apache #musichistory",
+  "n": 21,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "Same song, different era",
+  "label": "STREAMING ERA",
+  "hook": "Hits lost 20 seconds in five years",
+  "facts": [
+   {
+    "claim": "The average Hot 100 song fell from 3:50 in 2013 to about 3:30 in 2018",
+    "number": "3:50 → 3:30",
+    "source_url": "https://qz.com/1519823/is-spotify-making-songs-shorter",
+    "quote": "From 2013 to 2018, the average song on the Billboard Hot 100 fell from 3 minutes and 50 seconds to about 3 minutes and 30 seconds."
+   },
+   {
+    "claim": "6% of hits were 2:30 or shorter in 2018, up from 1% five years earlier",
+    "number": "1% → 6%",
+    "source_url": "https://qz.com/1519823/is-spotify-making-songs-shorter",
+    "quote": "Six percent of hit songs were 2 minutes 30 seconds or shorter in 2018, up from just 1% five years before."
+   },
+   {
+    "claim": "All of the Lights runs about five minutes and I Love It about two, but streaming pays them the same",
+    "number": "5 min vs 2 min",
+    "source_url": "https://qz.com/1519823/is-spotify-making-songs-shorter",
+    "quote": "Kanye West's 2010 five-minute opus \"All Of the Lights\" gets the same payment as West's two-minute long 2018 hit \"I Love it\"."
+   },
+   {
+    "claim": "Old Town Road is 113 seconds long. Stereogum's ranking of where it sits among the shortest No. 1s contradicts itself, so we leave the rank out.",
+    "number": "1:53",
+    "source_url": "https://stereogum.com/2039096/lil-nas-xs-old-town-road-is-the-second-shortest-1-single-of-all-time",
+    "quote": "\"Old Town Road\" is 113 seconds long."
+   },
+   {
+    "claim": "Old Town Road spent a record 19 weeks at No. 1",
+    "number": "19 weeks",
+    "source_url": "https://www.billboard.com/articles/business/chart-beat/8545487/lil-nas-x-old-town-road-billy-ray-cyrus-top-hot-100-song-2019",
+    "quote": "it spent a record-shattering 19 weeks at No. 1."
+   }
+  ],
+  "script": [
+   "Hit songs lost 20 seconds in five years.",
+   "Hot 100 average: 3:50 in 2013, about 3:30 by 2018. We pressed three into an album.",
+   "Kanye's All of the Lights: about five minutes.",
+   "His 2018 hit I Love It: about two. Same payout per stream.",
+   "So how short can a smash get? Old Town Road: 113 seconds.",
+   "And it still spent a record 19 weeks at No. 1.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "20 seconds",
+   "3:50 → 3:30",
+   "5 min",
+   "2 min",
+   "113 sec",
+   "19 weeks",
+   "three"
+  ],
+  "visuals": [
+   "A song-length bar trimmed by scissors",
+   "Timeline 2013 to 2018 with the length bar shrinking",
+   "Long bar labeled ~5:00",
+   "Short bar labeled ~2:00 with equal coin icons next to both",
+   "Very short bar labeled 1:53",
+   "Chart counter ticking up to 19 weeks",
+   "Three vinyl outlines pressing into one record"
+  ],
+  "picks": [
+   {
+    "song": "All of the Lights",
+    "artist": "Kanye West"
+   },
+   {
+    "song": "I Love It",
+    "artist": "Kanye West & Lil Pump"
+   },
+   {
+    "song": "Old Town Road",
+    "artist": "Lil Nas X ft. Billy Ray Cyrus"
+   }
+  ],
+  "caption": "hits lost 20 seconds in five years.\nthe average hot 100 song went from 3:50 (2013) to about 3:30 (2018).\n'all of the lights' runs about five minutes, 'i love it' about two, and streaming pays them the same.\nold town road: 113 seconds, 19 weeks at no. 1.\nsources: quartz, billboard, stereogum.\nwe pressed all three into an album.\nwhat would your three make?\n#streaming #hot100 #musicindustry #musicfacts #offrotation",
+  "n": 22,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "samples and connections",
+  "label": "SESSION PLAYER · 1960s",
+  "hook": "One drummer, 40 No. 1 hits",
+  "facts": [
+   {
+    "claim": "According to the Rock & Roll Hall of Fame, Hal Blaine played on 40 No. 1 hits and 150 top 10 songs.",
+    "number": "40 / 150",
+    "source_url": "https://www.nbcnews.com/pop-culture/music/hal-blaine-legendary-drummer-who-played-iconic-opening-be-my-n982056",
+    "quote": "40 No. 1 hits, 150 top 10 songs"
+   },
+   {
+    "claim": "Some accounts credit him with 35,000 songs, but Blaine thought about 6,000 was more accurate.",
+    "number": "~6,000",
+    "source_url": "https://www.nbcnews.com/pop-culture/music/hal-blaine-legendary-drummer-who-played-iconic-opening-be-my-n982056",
+    "quote": "around 6,000 was more accurate"
+   },
+   {
+    "claim": "He played the opening of the Ronettes' \"Be My Baby\" and played on the Beach Boys' \"Good Vibrations\" and Simon & Garfunkel's \"Mrs. Robinson\".",
+    "number": "",
+    "source_url": "https://www.rollingstone.com/music/music-news/hal-blaine-drummer-dead-90-806827/",
+    "quote": "a group of elite Los Angeles session players"
+   },
+   {
+    "claim": "Wrecking Crew players sometimes worked as many as eight sessions a day.",
+    "number": "8 a day",
+    "source_url": "https://www.nbcnews.com/pop-culture/music/hal-blaine-legendary-drummer-who-played-iconic-opening-be-my-n982056",
+    "quote": "sometimes as many as eight sessions a day"
+   }
+  ],
+  "script": [
+   "One drummer, 40 No. 1 hits.",
+   "Three classics share his drums, and we pressed all three into an album.",
+   "Hal Blaine, of LA's Wrecking Crew, played the famous opening of \"Be My Baby\".",
+   "He's also on \"Good Vibrations\" and \"Mrs. Robinson\".",
+   "Some sources say 35,000 songs. Blaine himself guessed closer to 6,000.",
+   "Some days the crew played as many as eight sessions.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "40",
+   "three",
+   "Be My Baby",
+   "Good Vibrations",
+   "6,000",
+   "8",
+   "album"
+  ],
+  "visuals": [
+   "a counter ticks up to 40 beside a single drum icon",
+   "one central node connects to three song nodes",
+   "a kick-snare waveform of a famous intro pattern",
+   "two more song nodes connect to the drum node",
+   "a bar for 35,000 shrinks down to 6,000",
+   "a day clock divided into 8 session blocks",
+   "three nodes snap into a record circle"
+  ],
+  "picks": [
+   {
+    "song": "Be My Baby",
+    "artist": "The Ronettes"
+   },
+   {
+    "song": "Good Vibrations",
+    "artist": "The Beach Boys"
+   },
+   {
+    "song": "Mrs. Robinson",
+    "artist": "Simon & Garfunkel"
+   }
+  ],
+  "caption": "one drummer, 40 no. 1 hits.\nhal blaine of the wrecking crew played on 40 no. 1s and 150 top 10s.\nthat's him on \"be my baby\", \"good vibrations\" and \"mrs. robinson\".\nhe figured he played on about 6,000 songs, not the 35,000 some people claim.\nsources: nbc news, rolling stone.\nwe pressed all three into an album.\nwhat would your three make?\n#halblaine #wreckingcrew #sessionmusician #drums",
+  "n": 23,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "Where a sound came from",
+  "label": "CORRIDOS TUMBADOS · 2019",
+  "hook": "A corrido hit No. 4 on the Hot 100",
+  "facts": [
+   {
+    "claim": "Chalino Sánchez, the 'OG king of corridos', came before Peso Pluma and Natanael Cano. He was murdered in Culiacán, Sinaloa, on May 15, 1992, the night after he sang 'Alma Enamorada'",
+    "number": "1992",
+    "source_url": "https://remezcla.com/lists/music/6-chalino-sanchez-songs-to-know-before-his-biopic-comes-out/",
+    "quote": "Before we had Peso Pluma, Natanael Cano, or Fuerza Regida, the OG king of corridos was Chalino Sánchez."
+   },
+   {
+    "claim": "Bad Bunny remixed Natanael Cano's 2019 'corrido tumbado' 'Soy El Diablo'",
+    "number": "2019",
+    "source_url": "https://www.rollingstone.com/music/music-latin/bad-bunny-natanael-cano-soy-el-diablo-corrido-904362/",
+    "quote": "urban corrido, or corrido tumbado artiste"
+   },
+   {
+    "claim": "Cano's album Corridos Tumbados (Oct. 31, 2019) spent 31 weeks at No. 1 on Billboard's Regional Mexican Albums chart",
+    "number": "31 weeks",
+    "source_url": "https://grupoanimal.mx/entretenimiento/quien-es-natanael-cano-corridos-tumbados",
+    "quote": "Grupo Animal: Corridos Tumbados spent 31 weeks at No. 1 on Regional Mexican Albums (paraphrase of article)"
+   },
+   {
+    "claim": "'Ella Baila Sola' peaked at No. 4 on the Hot 100, the first regional Mexican song in the chart's top 10",
+    "number": "No. 4",
+    "source_url": "https://sg.news.yahoo.com/eslabon-armado-ella-baila-sola-220200744.html",
+    "quote": "the first regional Mexican song to reach the Top 10 in the chart's 65-year existence"
+   }
+  ],
+  "script": [
+   "A corrido hit No. 4 on the Hot 100.",
+   "Its road runs through three songs, and we pressed all three into an album.",
+   "The OG: Chalino Sánchez. He sang 'Alma Enamorada' the night before he was killed in Culiacán, 1992.",
+   "So how did the corrido get young again?",
+   "2019: Natanael Cano's corrido tumbado 'Soy el Diablo,' later remixed by Bad Bunny.",
+   "2023: Eslabon Armado and Peso Pluma's 'Ella Baila Sola,' the first regional Mexican song in the top 10.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "No. 4",
+   "three",
+   "1992",
+   "young",
+   "2019",
+   "top 10",
+   "album"
+  ],
+  "visuals": [
+   "A Hot 100 ladder; a marker climbs to #4",
+   "Three record slots appear",
+   "Map: a pin on Culiacán, Sinaloa, with 1992 on a timeline",
+   "Two lines, 'corrido' and 'trap/urban', drift toward each other",
+   "The lines merge into one; a 2019 pin drops",
+   "A chart line crosses the top-10 threshold, with a '65 years' label",
+   "The three slots press into one disc"
+  ],
+  "picks": [
+   {
+    "song": "Alma Enamorada",
+    "artist": "Chalino Sánchez"
+   },
+   {
+    "song": "Soy el Diablo",
+    "artist": "Natanael Cano"
+   },
+   {
+    "song": "Ella Baila Sola",
+    "artist": "Eslabon Armado & Peso Pluma"
+   }
+  ],
+  "caption": "a corrido hit no. 4 on the hot 100.\nbefore peso pluma there was chalino sánchez, killed in culiacán in 1992.\nnatanael cano's corridos tumbados album spent 31 weeks at no. 1 on regional mexican albums in the 2019 era.\n'ella baila sola' was the first regional mexican song in the hot 100's top 10.\nsources: billboard via yahoo, rolling stone, remezcla.\nwe pressed all three into an album.\nwhat would your three make?\n#corridostumbados #pesopluma #natanaelcano #musicamexicana #chalinosanchez",
+  "n": 24,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "Tempo and feel",
+  "label": "DANCEFLOOR HISTORY",
+  "hook": "A genre born by slowing one song",
+  "facts": [
+   {
+    "claim": "In 2009, at a DC party, DJ Dave Nada slowed Afrojack's remix of Moombah! from 128 to 108 BPM and created moombahton. Spin gives the original as 129, so we say 'about 128'.",
+    "number": "128 → 108 BPM",
+    "source_url": "https://en.wikipedia.org/wiki/Moombahton",
+    "quote": "Afrojack's remix of Silvio Ecomo and Chuckie's song \"Moombah!\" from 128 bpm to 108 bpm"
+   },
+   {
+    "claim": "Spin's account of the origin, with the crowd dancing to reggaeton and bachata",
+    "number": "129 → 108 BPM",
+    "source_url": "https://www.spin.com/2011/07/hot-new-sound-moombahton-goes-boom/",
+    "quote": "a pounding 129 bpm to a cooled-out, reggaeton-friendly 108"
+   },
+   {
+    "claim": "Lean On is a moombahton song and was named Spotify's most-streamed song in 2015",
+    "number": "526 million streams",
+    "source_url": "https://en.wikipedia.org/wiki/Lean_On",
+    "quote": "overtaken \"Thinking Out Loud\" by Ed Sheeran as the most streamed song ever on Spotify, with 526 million streams globally"
+   },
+   {
+    "claim": "Lean On runs at 98 BPM",
+    "number": "98 BPM",
+    "source_url": "https://cs.uwaterloo.ca/~dtompkin/music/track/CHRRADIO_334/CHRRADIO_334-04.html",
+    "quote": "Published BPM: 98 / Mixmeister BPM: 98.0"
+   },
+   {
+    "claim": "Mi Gente is an uptempo moombahton song at 105 BPM (confirmed by a DJ database at 105)",
+    "number": "105 BPM",
+    "source_url": "https://en.wikipedia.org/wiki/Mi_Gente",
+    "quote": "an uptempo moombahton song"
+   },
+   {
+    "claim": "Mi Gente tempo cross-check",
+    "number": "105 BPM",
+    "source_url": "https://cs.uwaterloo.ca/~dtompkin/music/track/CHRRADIO_390/CHRRADIO_390-04.html",
+    "quote": "Published BPM: 105 / Mixmeister BPM: 105.0"
+   }
+  ],
+  "script": [
+   "A whole genre was born by slowing down one song.",
+   "Moombah!, Lean On, Mi Gente: we pressed all three into an album.",
+   "2009, a DC house party full of reggaeton fans.",
+   "A DJ dragged a Moombah! remix from about 128 BPM down to 108.",
+   "So where did that slowed-down bounce actually end up?",
+   "Lean On at 98 became Spotify's most-streamed song in 2015. Mi Gente rides it at 105.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "one song",
+   "three",
+   "2009",
+   "128 → 108",
+   "where?",
+   "98 · 105",
+   "three"
+  ],
+  "visuals": [
+   "Tempo bar shrinking, labeled 'slow it down'",
+   "Three tempo bars appear",
+   "Map pin on Washington, DC with '2009'",
+   "Tempo dial turning from 128 to 108",
+   "Arrow from a DC pin out toward a world map",
+   "Bars at 98 and 105 next to a stream counter rising to 526M",
+   "Three vinyl outlines pressing into one record"
+  ],
+  "picks": [
+   {
+    "song": "Moombah! (Afrojack Remix)",
+    "artist": "Silvio Ecomo & Chuckie"
+   },
+   {
+    "song": "Lean On",
+    "artist": "Major Lazer & DJ Snake ft. MØ"
+   },
+   {
+    "song": "Mi Gente",
+    "artist": "J Balvin & Willy William"
+   }
+  ],
+  "caption": "a whole genre was born by slowing down one song.\nin 2009 a dc dj took a 'moombah!' remix from about 128 bpm to 108 for a party of reggaeton fans.\nthat became moombahton: lean on (98 bpm), mi gente (105).\nlean on was spotify's most-streamed song in 2015.\nsources: spin, wikipedia, dj tempo databases.\nwe pressed all three into an album.\nwhat would your three make?\n#moombahton #reggaeton #jbalvin #musichistory #offrotation",
+  "n": 25,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "decade or scene snapshot",
+  "label": "HIP-HOP · 1979",
+  "hook": "1979: the year rap first hit vinyl",
+  "facts": [
+   {
+    "claim": "Grammy.com calls King Tim III's section of the Fatback Band's 1979 \"Personality Jock\" early rapping on record.",
+    "number": "1979",
+    "source_url": "https://grammy.com/news/hip-hop-albums-1970s-releases-videos-50th-anniversary",
+    "quote": "early rapping on record"
+   },
+   {
+    "claim": "\"Rapper's Delight\" came out on September 16, 1979, ran 14 minutes, and entered the Billboard Hot 100 at No. 36 in January 1980, where it peaked.",
+    "number": "14 min / No. 36",
+    "source_url": "https://www.xxlmag.com/the-sugarhill-gang-rappers-delight-first-billboard-hit-today-in-hip-hop/",
+    "quote": "Released on Sept. 16, 1979"
+   },
+   {
+    "claim": "\"Rapper's Delight\" peaked at No. 4 on the Hot Soul Singles chart.",
+    "number": "No. 4",
+    "source_url": "https://grammy.com/news/hip-hop-albums-1970s-releases-videos-50th-anniversary",
+    "quote": "peaked at No. 4 on the Hot Soul Singles chart in 1979"
+   },
+   {
+    "claim": "Kurtis Blow's \"Christmas Rappin'\" came out for the 1979 holidays, and Grammy.com says it was the first rap release on a major label.",
+    "number": "1979",
+    "source_url": "https://grammy.com/news/hip-hop-albums-1970s-releases-videos-50th-anniversary",
+    "quote": "during the holiday season in 1979"
+   }
+  ],
+  "script": [
+   "1979: the year rap first hit vinyl.",
+   "Three records put it there, and we pressed all three into an album.",
+   "First, King Tim III on the Fatback Band's \"Personality Jock\".",
+   "In September, \"Rapper's Delight\": 14 minutes long, and it still reached No. 36 on the Hot 100.",
+   "By Christmas, Kurtis Blow's \"Christmas Rappin'\" came out on a major label.",
+   "A party music born at block parties now came in a sleeve.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "1979",
+   "three",
+   "Personality Jock",
+   "14 minutes",
+   "major label",
+   "sleeve",
+   "album"
+  ],
+  "visuals": [
+   "a 1979 timeline drawn across the screen",
+   "three empty pins drop onto the timeline",
+   "the first pin fills with a short waveform",
+   "a September pin with a long 14-minute waveform bar and a 36 tag",
+   "a December pin with a label-stamp icon",
+   "a waveform folds into a square sleeve outline",
+   "three pins snap into a record circle"
+  ],
+  "picks": [
+   {
+    "song": "King Tim III (Personality Jock)",
+    "artist": "Fatback Band"
+   },
+   {
+    "song": "Rapper's Delight",
+    "artist": "The Sugarhill Gang"
+   },
+   {
+    "song": "Christmas Rappin'",
+    "artist": "Kurtis Blow"
+   }
+  ],
+  "caption": "1979: the year rap first hit vinyl.\nking tim iii rapped on the fatback band's \"personality jock\".\n\"rapper's delight\" ran 14 minutes and still reached no. 36 on the hot 100.\nkurtis blow's \"christmas rappin'\" came out on a major label that december.\nsources: grammy.com, xxl.\nwe pressed all three into an album.\nwhat would your three make?\n#hiphophistory #1979 #oldschoolhiphop #rap",
+  "n": 26,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "Where a sound came from",
+  "label": "TR-808 · 1980",
+  "hook": "The 808: only about 12,000 were made",
+  "facts": [
+   {
+    "claim": "Roland released the TR-808 in 1980",
+    "number": "1980",
+    "source_url": "https://amp.cbc.ca/radio/asithappens/as-it-happens-tuesday-edition-1.4054748/roland-founder-ikutaro-kakehashi-whose-drum-machine-influenced-the-world-of-music-dies-1.4054761",
+    "quote": "The device was released in 1980."
+   },
+   {
+    "claim": "Only about 12,000 units were made before it was discontinued",
+    "number": "12,000",
+    "source_url": "https://amp.cbc.ca/radio/asithappens/as-it-happens-tuesday-edition-1.4054748/roland-founder-ikutaro-kakehashi-whose-drum-machine-influenced-the-world-of-music-dies-1.4054761",
+    "quote": "It was around 12,000 units that were made, which worldwide is quite low."
+   },
+   {
+    "claim": "'Planet Rock' (June 1982) is described as the first hip-hop/R&B track to use the 808. It reached No. 4 on the R&B chart",
+    "number": "June 1982",
+    "source_url": "https://www.soundonsound.com/techniques/classic-tracks-afrika-bambaataa-soulsonic-force-planet-rock",
+    "quote": "first hip–hop/R&B track to utilise a Roland TR808 drum machine"
+   },
+   {
+    "claim": "Marvin Gaye's 'Sexual Healing' is a well-known 808 record",
+    "number": "",
+    "source_url": "https://amp.cbc.ca/radio/asithappens/as-it-happens-tuesday-edition-1.4054748/roland-founder-ikutaro-kakehashi-whose-drum-machine-influenced-the-world-of-music-dies-1.4054761",
+    "quote": "Marvin Gaye's Sexual Healing"
+   },
+   {
+    "claim": "808s & Heartbreak (Nov. 24, 2008) used TR-808 sounds, and 'Love Lockdown' debuted at No. 3 on the Hot 100",
+    "number": "No. 3",
+    "source_url": "https://www.xxlmag.com/today-hip-hop-kanye-west-releases-808s-heartbreak/",
+    "quote": "his first single 'Love Lockdown' debuted at number three on the Billboard Hot 100"
+   }
+  ],
+  "script": [
+   "The drum machine behind modern pop: only about 12,000 were made.",
+   "Roland's TR-808, 1980. Three songs, and we pressed all three into an album.",
+   "June 1982: 'Planet Rock,' called the first hip-hop and R&B track to use it.",
+   "So how did a discontinued box take over?",
+   "Marvin Gaye's 'Sexual Healing' put its sound on a soul classic.",
+   "2008: Kanye's 808s & Heartbreak. 'Love Lockdown' debuted at No. 3 on the Hot 100.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "12,000",
+   "1980",
+   "1982",
+   "discontinued",
+   "Sexual Healing",
+   "No. 3",
+   "album"
+  ],
+  "visuals": [
+   "A counter rolls to ~12,000 next to a simple drum-machine outline",
+   "Timeline begins at 1980; three record slots appear",
+   "16-step grid: a kick and handclap pattern lights up, with a 1982 pin",
+   "A 'discontinued' stamp hits the outline, then cracks as waves ripple out",
+   "The grid slows to a smooth soul groove",
+   "Timeline jumps to 2008; a chart bar lands at #3",
+   "The three slots press into one disc"
+  ],
+  "picks": [
+   {
+    "song": "Planet Rock",
+    "artist": "Afrika Bambaataa & the Soulsonic Force"
+   },
+   {
+    "song": "Sexual Healing",
+    "artist": "Marvin Gaye"
+   },
+   {
+    "song": "Love Lockdown",
+    "artist": "Kanye West"
+   }
+  ],
+  "caption": "the 808: only about 12,000 were made.\nroland released it in 1980 and stopped making it quickly.\n'planet rock' (june 1982) is called the first hip-hop/r&b track to use it.\n'love lockdown' debuted at no. 3 on the hot 100 in 2008.\nsources: cbc, sound on sound, xxl.\nwe pressed all three into an album.\nwhat would your three make?\n#tr808 #808 #producer #hiphophistory #musichistory",
+  "n": 27,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "Decade or scene snapshot",
+  "label": "BUENOS AIRES · 2012–2017",
+  "hook": "Five park steps. Then 65,000 tickets.",
+  "facts": [
+   {
+    "claim": "El Quinto Escalón was founded in 2012 by a 13-year-old, Alejo Nahuel Acosta, later known as Ysy A.",
+    "number": "2012 / age 13",
+    "source_url": "https://www.elsol.com.ar/de-revista/la-competencia-de-freestyle-rap-creada-por-un-chico-de-13-anos-que-cambio-la-musica-argentina/",
+    "quote": "fue fundado en 2012 por un chico de 13 años llamado Alejo Nahuel Acosta."
+   },
+   {
+    "claim": "It took place on a five-step staircase in Parque Rivadavia, every other Sunday.",
+    "number": "5 steps",
+    "source_url": "https://www.elsol.com.ar/de-revista/la-competencia-de-freestyle-rap-creada-por-un-chico-de-13-anos-que-cambio-la-musica-argentina/",
+    "quote": "en la escalera de cinco peldaños del mencionado espacio verde porteño y se realizaba domingos de por medio."
+   },
+   {
+    "claim": "It ran from 2012 to 2017, thousands of young people followed it, and Duki, Trueno and Wos all debuted there.",
+    "number": "2012–2017",
+    "source_url": "https://www.teletica.com/entretenimiento/del-barrio-a-la-cima-el-ascenso-imparable-de-la-musica-urbana-argentina_375362",
+    "quote": "Allí debutaron artistas como Duki, Lit Killah, Trueno, Paulo Londra, Wos e Ysy A."
+   },
+   {
+    "claim": "Duki sold out all 65,000 tickets for his Santiago Bernabéu show in a few hours.",
+    "number": "65,000",
+    "source_url": "https://www.teletica.com/entretenimiento/del-barrio-a-la-cima-el-ascenso-imparable-de-la-musica-urbana-argentina_375362",
+    "quote": "agotó las 65.000 entradas disponibles para su show en el estadio Santiago Bernabéu de España en pocas horas."
+   },
+   {
+    "claim": "La Nación calls it the largest freestyle competition in the Spanish-speaking world.",
+    "number": "largest in Spanish",
+    "source_url": "https://lanacion.com.ar/espectaculos/musica/duki-en-river-el-cantante-se-convertira-en-el-artista-argentino-mas-joven-en-llegar-al-estadio-nid28062023",
+    "quote": "la competencia de freestyle que terminó por convertirse en la más grande de habla hispana"
+   }
+  ],
+  "script": [
+   "Five park steps. Then 65,000 tickets.",
+   "Three songs from one Buenos Aires staircase, and we pressed all three into an album.",
+   "2012: a 13-year-old, later known as Ysy A, starts rap battles on a five-step staircase in Parque Rivadavia.",
+   "Every other Sunday. Thousands of kids follow it.",
+   "Guess who debuted there? Duki, Wos and Trueno.",
+   "Years later, Duki sold all 65,000 tickets at Madrid's Bernabéu in hours.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "5 steps",
+   "Buenos Aires",
+   "13",
+   "every other Sunday",
+   "Duki · Wos · Trueno",
+   "65,000",
+   "album"
+  ],
+  "visuals": [
+   "A five-step staircase animates, then a counter jumps to 65,000",
+   "Map of Buenos Aires with a pin dropping on Parque Rivadavia, Caballito",
+   "Timeline marker at 2012 with an age badge reading '13'",
+   "Calendar grid with every other Sunday lighting up and dot crowds growing on the steps",
+   "Three name tags pop up on separate steps",
+   "A route line runs from Buenos Aires to Madrid and a stadium outline fills to 65,000",
+   "Three discs stack into one album sleeve outline"
+  ],
+  "picks": [
+   {
+    "song": "She Don't Give a FO",
+    "artist": "Duki ft. Khea"
+   },
+   {
+    "song": "Canguro",
+    "artist": "Wos"
+   },
+   {
+    "song": "Mamichula",
+    "artist": "Trueno ft. Nicki Nicole"
+   }
+  ],
+  "caption": "five park steps. then 65,000 tickets.\nel quinto escalón began in 2012, started by a 13-year-old (ysy a) on a five-step staircase in parque rivadavia.\nit met every other sunday from 2012 to 2017, and duki, wos and trueno all debuted there.\nduki later sold all 65,000 tickets for his show at madrid's bernabéu in hours.\nsources: afp via teletica, el sol, la nación.\nwe pressed all three into an album.\nwhat would your three make?\n#elquintoescalon #freestyle #trapargentino #buenosaires #musicexplained",
+  "n": 28,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "The numbers behind a hit",
+  "label": "LATIN POP HISTORY",
+  "hook": "Despacito ended a 21-year Spanish-language drought",
+  "facts": [
+   {
+    "claim": "Despacito was the first Hot 100 No. 1 sung mostly in Spanish since Macarena",
+    "number": "first since 1996",
+    "source_url": "https://stereogum.com/1941238/luis-fonsi-daddy-yankee-justin-biebers-despacito-becomes-first-spanish-language-1-single-since-macarena/news",
+    "quote": "is the first Hot 100 #1 sung mostly in Spanish since Los Del Rio's 'Macarena,'"
+   },
+   {
+    "claim": "Macarena held No. 1 for 14 weeks in 1996",
+    "number": "14 weeks",
+    "source_url": "https://stereogum.com/1941238/luis-fonsi-daddy-yankee-justin-biebers-despacito-becomes-first-spanish-language-1-single-since-macarena/news",
+    "quote": "a 1996 Hot 100 #1 that held the top spot for 14 weeks"
+   },
+   {
+    "claim": "Despacito reached 16 weeks at No. 1, tying the record set by One Sweet Day in 1995–96",
+    "number": "16 weeks",
+    "source_url": "https://www.grammy.com/news/despacito-ties-billboard-hot-100-record/",
+    "quote": "is tied for most weeks ever in the top spot with Mariah Carey and Boyz II Men's \"One Sweet Day,\" which spent 16 weeks at No. 1 in 1995 and 1996"
+   },
+   {
+    "claim": "Billboard confirms the shared 16-week mark (later broken by Old Town Road)",
+    "number": "16 weeks",
+    "source_url": "https://www.billboard.com/articles/business/chart-beat/8545487/lil-nas-x-old-town-road-billy-ray-cyrus-top-hot-100-song-2019",
+    "quote": "surpassed the previous record for the most weeks at No. 1 on the weekly list"
+   }
+  ],
+  "script": [
+   "Despacito ended a two-decade wait.",
+   "It was the first Hot 100 No. 1 sung mostly in Spanish since Macarena. We pressed all three songs here into an album.",
+   "Macarena held No. 1 for 14 weeks back in 1996.",
+   "So how long could Despacito last? 16 weeks.",
+   "That tied One Sweet Day, Mariah Carey and Boyz II Men, for the all-time record.",
+   "Sixteen weeks at the top of America's chart, sung mostly in Spanish.",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "two decades",
+   "Spanish",
+   "14 weeks",
+   "16 weeks",
+   "record",
+   "16",
+   "three"
+  ],
+  "visuals": [
+   "Timeline from 1996 to 2017 with a long empty gap",
+   "No. 1 crown icon with a language tag 'ES'",
+   "Week counter ticking to 14 on a 1996 marker",
+   "Week counter ticking past 14 to 16",
+   "Two counters side by side, both at 16",
+   "Bar chart: 14 vs 16 vs 16",
+   "Three vinyl outlines pressing into one record"
+  ],
+  "picks": [
+   {
+    "song": "Despacito (Remix)",
+    "artist": "Luis Fonsi & Daddy Yankee ft. Justin Bieber"
+   },
+   {
+    "song": "Macarena (Bayside Boys Mix)",
+    "artist": "Los del Río"
+   },
+   {
+    "song": "One Sweet Day",
+    "artist": "Mariah Carey & Boyz II Men"
+   }
+  ],
+  "caption": "despacito ended a two-decade wait.\nit was the first hot 100 no. 1 sung mostly in spanish since macarena (14 weeks, 1996).\ndespacito spent 16 weeks at no. 1, tying one sweet day's all-time record.\nsources: grammy.com, stereogum, billboard.\nwe pressed all three into an album.\nwhat would your three make?\n#despacito #latinpop #billboard #musichistory #offrotation",
+  "n": 29,
+  "status": "researched with sources · re-verify before render"
+ },
+ {
+  "type": "Where a sound came from",
+  "label": "CUMBIA · COLOMBIA → MÉXICO",
+  "hook": "Cumbia started with two flutes in Colombia",
+  "facts": [
+   {
+    "claim": "Cumbia started on Colombia's coast with small bands built around two flutes called gaitas",
+    "number": "2 flutes",
+    "source_url": "https://www.npr.org/transcripts/1143635185",
+    "quote": "the cumbia starts in Colombia"
+   },
+   {
+    "claim": "NPR uses Los Gaiteros de San Jacinto's 'Fuego de Cumbia' as its roots example",
+    "number": "",
+    "source_url": "https://www.npr.org/transcripts/1143635185",
+    "quote": "NPR Alt.Latino plays 'Fuego De Cumbia' by Los Gaiteros de San Jacinto (paraphrase of segment)"
+   },
+   {
+    "claim": "Cumbia in Mexico goes back to the 1940s",
+    "number": "1940s",
+    "source_url": "https://www.npr.org/transcripts/1143635185",
+    "quote": "Cumbia in Mexico goes back to the 1940s"
+   },
+   {
+    "claim": "Carmen Rivero's 'Cumbia del Sol' (1964) 'really starts the ball rolling' for cumbia across Latin America",
+    "number": "1964",
+    "source_url": "https://www.npr.org/transcripts/1143635185",
+    "quote": "really starts the ball rolling"
+   },
+   {
+    "claim": "Celso Piña of Monterrey played a Colombian vallenato style of cumbia. His breakout hit was 'Cumbia Sobre el Río', and he died in 2019 at 66",
+    "number": "66",
+    "source_url": "https://www.wbez.org/culture/2019/08/22/chicagoans-mourn-loss-of-renowned-mexican-musician-celso-pina",
+    "quote": "The breakout hit Cumbia Sobre el Rio"
+   }
+  ],
+  "script": [
+   "Cumbia started with flutes on Colombia's coast.",
+   "Then it travelled. Three songs show how, and we pressed all three into an album.",
+   "The roots: gaitas, Colombian flutes. Hear Los Gaiteros de San Jacinto, 'Fuego de Cumbia.'",
+   "So how did it become Mexico's party music?",
+   "Mexico had cumbia by the 1940s. In 1964, Carmen Rivero's 'Cumbia del Sol' got the ball rolling.",
+   "Then Monterrey's Celso Piña took Colombian accordion cumbia to a breakout hit, 'Cumbia Sobre el Río.'",
+   "so we pressed these three into an album."
+  ],
+  "highlights": [
+   "flutes",
+   "three",
+   "gaitas",
+   "Mexico",
+   "1964",
+   "Monterrey",
+   "album"
+  ],
+  "visuals": [
+   "Map: Colombia's Caribbean coast glows; two flute icons appear",
+   "Three record slots appear beside the map",
+   "A simple shuffle-step rhythm grid pulses under the flute icons",
+   "A dotted arrow leaves Colombia heading north, ending in a question mark",
+   "Timeline: markers at 1940s and 1964 appear over Mexico",
+   "The arrow lands on Monterrey; an accordion icon pops in",
+   "The three slots press into one disc"
+  ],
+  "picks": [
+   {
+    "song": "Fuego de Cumbia",
+    "artist": "Los Gaiteros de San Jacinto"
+   },
+   {
+    "song": "Cumbia del Sol",
+    "artist": "Carmen Rivero"
+   },
+   {
+    "song": "Cumbia Sobre el Río",
+    "artist": "Celso Piña"
+   }
+  ],
+  "caption": "cumbia started with flutes on colombia's coast.\nnpr traces it to small bands with two flutes called gaitas.\nmexico had cumbia by the 1940s, and carmen rivero's 'cumbia del sol' (1964) got it rolling across latin america.\nmonterrey's celso piña made it accordion-sized.\nsources: npr alt.latino, wbez.\nwe pressed all three into an album.\nwhat would your three make?\n#cumbia #celsopiña #musicacolombiana #cumbiamexicana #musichistory",
+  "n": 30,
+  "status": "researched with sources · re-verify before render"
+ }
+]
