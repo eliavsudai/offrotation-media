@@ -181,12 +181,10 @@
       "when": "2026-10-26T12:00:00-06:00",
       "type": "reel",
       "approved": true,
-      "media": [
-        "posts/2026-10-26-promo-01/reel.mp4"
-      ],
-      "cover": "posts/2026-10-26-promo-01/cover.jpg",
+      "media": [],
       "music": "70s Another Funky Disco by pietiX (Pixabay, boost-safe) + AI voiceover",
-      "caption": "your three favorite songs say more about you than you think.\n\nsoulprint turns any three songs into an album that's only yours: its own cover art, a back sleeve with liner notes about you, and a tune made from your picks. same three songs, same album, every time.\n\nfree, for music lovers. coming soon to the app store. follow so you're first to press yours.\n\nwhich three would you pick? drop them below.\n\n#soulprint #musiclovers #albumart #vinyl #musictaste #newapp"
+      "caption": "your three favorite songs say more about you than you think.\n\nsoulprint turns any three songs into an album that's only yours: its own cover art, a back sleeve with liner notes about you, and a tune made from your picks. same three songs, same album, every time.\n\nfree, for music lovers. coming soon to the app store. follow so you're first to press yours.\n\nwhich three would you pick? drop them below.\n\n#soulprint #musiclovers #albumart #vinyl #musictaste #newapp",
+      "cleaned": true
     },
     {
       "id": "2026-10-26-promo-02",
