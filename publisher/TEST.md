@@ -50,3 +50,13 @@ Second runs use a fresh example (new songs/artists), same format.
 - follows     = follower gain from post time to the next post (from publisher/followers.log)
 - also reach, views, likes, comments; read at 24 h and 72 h.
 Rank by: hold % (40%), care/1k (30%), follows (30%), each normalised across the 30 Reels.
+
+## Daily operations (each 6:00 am production run)
+1. Read this file; today's two formats come from the rotation. Check `python3 publisher/results.py` first.
+2. Build both Reels in /home/claude/ads/promo (promo_tpl.html + make.py, Kokoro in /home/claude/tts), review frame
+   sheets + audio, then add to schedule.json as 2026-MM-DD-promo-NN with "format", "dur", caption, cover; push.
+3. Send the user both files + formats + times in one short message (they can veto before noon).
+4. Make sure tomorrow is covered: send_later reminders for tomorrow's 6:00 production, 7:30 morning check-up
+   (MORNING.md), 12:04 and 18:34 check-ins (checkin.sh + send the user the permalink). Skip any that already exist.
+5. Delete render frames / old preview PNGs; keep promo_tpl.html, make.py, screens, icon.
+6. On Nov 10 at 7:30: final ranking report from results.csv + recommendation for the next two weeks + boost plan.
