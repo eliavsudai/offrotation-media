@@ -225,12 +225,10 @@
       "when": "2026-10-28T18:30:00-06:00",
       "type": "reel",
       "approved": true,
-      "media": [
-        "posts/2026-10-28-lesson-03/reel.mp4"
-      ],
-      "cover": "posts/2026-10-28-lesson-03/cover.jpg",
+      "media": [],
       "music": "Deep House Sunset (Pixabay, boost-safe) + AI voice",
-      "caption": "fleetwood mac's only no. 1 runs on two chords.\n'dreams' is f and g, one bar each, plus a chord that shows up once.\n'oye como va': two chords (am7, d7). nilsson's 'coconut': one c7, start to finish, and it still hit no. 8.\nin 2020 a viral tiktok sent 'dreams' back up to no. 12.\nsources: ethan hein, american songwriter, wdrv.\nwhat would your three songs be?\n#guitar #chords #fleetwoodmac #santana #musictheory"
+      "caption": "fleetwood mac's only no. 1 runs on two chords.\n'dreams' is f and g, one bar each, plus a chord that shows up once.\n'oye como va': two chords (am7, d7). nilsson's 'coconut': one c7, start to finish, and it still hit no. 8.\nin 2020 a viral tiktok sent 'dreams' back up to no. 12.\nsources: ethan hein, american songwriter, wdrv.\nwhat would your three songs be?\n#guitar #chords #fleetwoodmac #santana #musictheory",
+      "cleaned": true
     }
   ]
 }
