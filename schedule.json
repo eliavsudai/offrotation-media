@@ -215,12 +215,10 @@
       "when": "2026-10-28T12:00:00-06:00",
       "type": "reel",
       "approved": true,
-      "media": [
-        "posts/2026-10-28-lesson-02/reel.mp4"
-      ],
-      "cover": "posts/2026-10-28-lesson-02/cover.jpg",
+      "media": [],
       "music": "70s Another Funky Disco (Pixabay, boost-safe) + AI voice",
-      "caption": "reggaeton's beat is named after a 1990 jamaican song.\nshabba ranks' 'dem bow' gave the beat its name.\nover 100,000 west indian workers went to panama for the canal. by the 80s their descendants made reggae in spanish, and in 1991 nando boom recorded 'ellos benia', a spanish 'dem bow'.\nin 2004 'gasolina' carried it far beyond puerto rico.\nsources: berklee, unesco, the world, library of congress.\nwhat would your three songs be?\n#reggaeton #dembow #dancehall #panama #musichistory"
+      "caption": "reggaeton's beat is named after a 1990 jamaican song.\nshabba ranks' 'dem bow' gave the beat its name.\nover 100,000 west indian workers went to panama for the canal. by the 80s their descendants made reggae in spanish, and in 1991 nando boom recorded 'ellos benia', a spanish 'dem bow'.\nin 2004 'gasolina' carried it far beyond puerto rico.\nsources: berklee, unesco, the world, library of congress.\nwhat would your three songs be?\n#reggaeton #dembow #dancehall #panama #musichistory",
+      "cleaned": true
     },
     {
       "id": "2026-10-28-lesson-03",
